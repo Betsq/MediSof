@@ -1,0 +1,30 @@
+.header {
+    margin: auto;
+    background-color: #f8e7d8;
+    display: flex;
+    border-bottom: 2px #efcbba solid;
+    padding: 20px 10% 20px 10%;
+}
+
+.logo {
+    max-width: 80px;
+    max-height: 80px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 20px 0 20px;
+}
+
+nav ul li a {
+    color: #83523b;
+    font-family: "RobotoMedium";
+}
