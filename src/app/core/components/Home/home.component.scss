@@ -1,14 +1,79 @@
+@import url(https://uk.allfont.net/allfont.css?fonts=calligraph);
+
 .main-section{
     display: flex;
 }
 
+.left-section, .right-section{
+    width: 50%;
+}
 .left-section{
-    margin-right: 50%;
     margin-left: 60px;
-    background-color: aqua;
+    margin-right: 10px;
 }
 
 .right-section{
     margin-right: 60px;
+    margin-left: 10px;
     background-color: aqua;
+}
+
+.title{
+    font-size: 135px;
+    font-family: 'Calligraph', arial;
+    color: #83523b;
+}
+
+.description{
+    color: #757575;
+    font-family: "RobotoMedium";
+}
+
+.contact-us-button{
+    width: 180px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    background-color: #83523b;
+    color: white;
+    font-family: "RobotoMedium";
+    cursor: pointer;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+
+.social-media-nav ul {  
+    display: flex;
+    justify-content: start;
+}
+
+.social-media-nav ul li{
+    flex: 10;
+}
+
+.facebook, .inst{
+    display: block; 
+    height:50px;
+    max-width:50px;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    cursor: pointer;
+    margin: 0;
+}
+.facebook{
+    background-image:url('../../../../assets/images/facebook-50.png');
+}
+
+.facebook:hover{ 
+    background-image:url('../../../../assets/gifs/facebook.gif');
+}
+
+.inst{
+    background-image:url('../../../../assets/images/instagram-50.png');
+}
+
+.inst:hover{
+    background-image:url('../../../../assets/gifs/instagram.gif');
 }
