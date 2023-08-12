@@ -1,0 +1,25 @@
+<div class="main-section">
+    <h1>
+        Послуги
+    </h1>
+    <div *ngFor="let ser of listServiceData.default" class="service-container">
+        <div class="service-card" #servicecard (click)="expandListService(servicelist, servicecard)">
+            <h2 class="service-card-title">{{ser.title}}</h2>
+            <p>
+                <img class="serivce-image" src="{{ser.imgPath}}" alt="Масаж">
+            </p>
+        </div>
+            <ul #servicelist class="service-list" style="display: none;" >
+                <li *ngFor="let service of ser.services" >
+                   <div class="service-list-container">
+                    <p class="service-name">
+                        {{service.name}}
+                    </p>
+                    <div class="service-price">
+                        <span class="service-price-number">{{service.price}}</span> грн.<div class=""></div>
+                    </div>
+                   </div>
+                </li>
+            </ul>
+    </div>
+</div>

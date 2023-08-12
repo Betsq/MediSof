@@ -1,0 +1,11 @@
+<div class="container">
+    <div class="left-side">
+        <img src="../../../../assets/images/send-mail.png" alt="">
+    </div>
+    <div class="right-side">
+        <input [(ngModel)]="contactForm.name" type="text" placeholder="Ім'я">
+        <input [(ngModel)]="contactForm.phoneNumber" type="tel" placeholder="Номер Телефона">
+        <textarea name="message" [(ngModel)]="contactForm.message" placeholder="Повідомлення"></textarea>
+        <button (click)="sendReqeust()">Відправити</button>
+    </div>  
+</div>

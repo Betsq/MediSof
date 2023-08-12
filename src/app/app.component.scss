@@ -1,0 +1,53 @@
+@import "./shared/styles/shared.scss";
+@import "./shared/styles/shared-color.scss";
+.container{
+    position: relative;
+    height: calc(100% - #{$header-height});
+}
+
+.image-bacground-one, .image-bacground-two, .image-bacground-three, .image-bacground-four {
+    position: absolute;
+    max-height: 35%; 
+}
+
+.image-bacground-one{
+    top: 30px;
+    right: 250px;
+    z-index: -1;
+}
+
+.image-bacground-two{
+    top: 0px;
+    left: 250px;
+    z-index: -1;
+}
+
+.image-bacground-three{
+    bottom: 5%;
+    right: 0px;
+    z-index: -1;
+}
+
+.image-bacground-four{
+    top: 0px;
+    right: 0px;
+    z-index: -1;
+}
+
+.contact-with-us-button{
+    position: fixed;
+    bottom: 20px;
+    right: 15px;
+    z-index: 999999;
+    width: 180px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    background-color: $main-color;
+    color: white;
+    font-family: "RobotoMedium";
+    cursor: pointer;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none;
+}

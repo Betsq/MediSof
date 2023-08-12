@@ -1,10 +1,21 @@
-import { Component } from '@angular/core';
+import { Component, Renderer2 } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  template: '<p>s</p>',
-  styleUrls: ['./app.component.scss']
+  templateUrl: 'app.component.html',
+  styleUrls: ['app.component.scss']
 })
 export class AppComponent {
-  title = 'MediSof';
+  constructor(private renderer: Renderer2){
+
+  }
+  title = 'Medi Sof';
+
+  openContactUsForm(){        
+    const componentElement = document.querySelector('contact-us-copy');
+
+    if(componentElement ){
+      this.renderer.setStyle(componentElement, 'display', 'block');
+    }
+  }
 }

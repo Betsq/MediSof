@@ -1,6 +1,8 @@
+@import "../../../shared/styles/shared-color.scss";
+
 .header {
     margin: auto;
-    background-color: #f8e7d8;
+    background-color: $second-color;
     display: flex;
     border-bottom: 2px #efcbba solid;
     padding: 20px 10% 20px 10%;
@@ -25,6 +27,15 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #83523b;
+    color: $main-color;
     font-family: "RobotoMedium";
+    background: linear-gradient($main-color 0 0) var(--p, 0) / var(--p, 0) no-repeat;
+    transition: .4s, background-position 0s;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+nav ul li a:hover {
+    --p: 100%;
+    color: #fff;
 }

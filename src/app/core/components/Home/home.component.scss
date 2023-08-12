@@ -1,27 +1,40 @@
 @import url(https://uk.allfont.net/allfont.css?fonts=calligraph);
+@import "../../../shared/styles/shared.scss";
+@import "../../../shared/styles/shared-color.scss";
 
 .main-section{
+    height: 100%;
+}
+
+.section{
+    padding: 0 60px 0 60px;
     display: flex;
+}
+
+.section-one, .section-two{
+    
 }
 
 .left-section, .right-section{
     width: 50%;
 }
 .left-section{
-    margin-left: 60px;
     margin-right: 10px;
 }
 
-.right-section{
-    margin-right: 60px;
-    margin-left: 10px;
-    background-color: aqua;
+.left-section, .right-section
+{
+    position: relative;
 }
 
 .title{
-    font-size: 135px;
-    font-family: 'Calligraph', arial;
-    color: #83523b;
+    font-size: 135px;   
+    color: $main-color;
+    margin-bottom: 56px;
+}
+
+.title span {
+    font-family: 'Calligraph', arial !important
 }
 
 .description{
@@ -29,39 +42,54 @@
     font-family: "RobotoMedium";
 }
 
-.contact-us-button{
-    width: 180px;
-    height: 50px;
+.find-on-map-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border: none;
     border-radius: 5px;
-    background-color: #83523b;
-    color: white;
-    font-family: "RobotoMedium";
+    background-color: $main-color;
     cursor: pointer;
     -webkit-user-select: none; /* Safari */
     -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
+    user-select: none;
+    max-width: 180px;
+    
+}
+
+.find-on-map-title{
+    color: white;
+    font-family: "RobotoMedium";
+    padding: 10px 5px 10px 5px;
+    height: 100%;
+    text-align: center;
+    width: 100%;
 }
 
 .social-media-nav ul {  
     display: flex;
-    justify-content: start;
+    padding: 0;
 }
 
-.social-media-nav ul li{
-    flex: 10;
+
+.social-media-nav ul li {  
+    margin-right: 15px;
 }
 
-.facebook, .inst{
+.social-media-nav ul li, .facebook, .inst, .viber, .telegram{
+    width: 50px;
+    height: 50px;
+}
+
+.facebook, .inst, .viber, .telegram{
     display: block; 
-    height:50px;
-    max-width:50px;
     background-position:center;
     background-repeat:no-repeat;
     background-size:cover;
     cursor: pointer;
-    margin: 0;
+    
 }
+
 .facebook{
     background-image:url('../../../../assets/images/facebook-50.png');
 }
@@ -76,4 +104,32 @@
 
 .inst:hover{
     background-image:url('../../../../assets/gifs/instagram.gif');
+}
+
+.viber{
+    background-image:url('../../../../assets/images/viber-50.png');
+}
+
+.viber:hover{
+    background-image:url('../../../../assets/gifs/viber.gif');
+}
+
+.telegram{
+    background-image:url('../../../../assets/images/telegram-50.png');
+}
+
+.right-section{
+    margin-left: 10px;  
+}
+
+.image-doctor {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    max-height: 100%;
+    z-index: 777;
+}
+
+contact-us{
+    justify-content: center;
 }
