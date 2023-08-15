@@ -12,7 +12,13 @@ import { HttpClientModule }   from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { OurAdvantagesComponent } from './core/components/our-advantages/our-advantages.component';
 import { OurLocationComponent } from './core/components/out-location/our-location.component';
-import { ContactUsComponent } from './core/components/contact-us/contact-us.component';
+import { ContactUsFormComponent } from './core/components/contact-us/contact-us.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import {MatRippleModule} from '@angular/material/core';
+import { MainServicesComponent } from './core/components/main-services/main-services.component';
+import { ContactUsSectionComponent } from './core/components/contact-us-section/contact-us-section.component';
+import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
+import {MatInputModule} from '@angular/material/input';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
@@ -23,13 +29,17 @@ const appRoutes: Routes = [
 @NgModule({
   declarations: [
     AppComponent, HomeComponent, HeaderComponent, ServicesComponent, ContactUsCopyComponent, OurAdvantagesComponent,
-    OurLocationComponent, ContactUsComponent
+    OurLocationComponent, ContactUsFormComponent, MainServicesComponent, ContactUsSectionComponent
   ],
   imports: [
     BrowserModule,
     RouterModule.forRoot(appRoutes),
     HttpClientModule,
-    FormsModule
+    FormsModule,
+    BrowserAnimationsModule,
+    MatRippleModule,
+    MatProgressSpinnerModule,
+    MatInputModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,32 +1,14 @@
 @import "../../../shared/styles/shared-color.scss";
 
 .container {
-    width: 80%;
     background-color: #fff;
     border-radius: 10px;
     z-index: 999999999999;
     left: 120px;
     display: flex;
-}
-
-.left-side{
-    height: 100%;
-    width: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.left-side img {
-    max-height: 80%;
-}
-
-.right-side{
-    width: 50%;
-    display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
 }
 
 input{
@@ -96,4 +78,9 @@ button{
     transition: all 0.4s;
     border: none;
     cursor: pointer;
+}
+
+
+button:hover{
+    background-color: #AB47BC;
 }

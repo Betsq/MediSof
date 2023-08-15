@@ -3,3 +3,9 @@ $header-max-height-logo: 80px;
 $header-border-bottom-px: 2px;
 
 $header-height: calc(#{$header-bottom-and-top-padding * 2} + #{$header-max-height-logo} + #{$header-border-bottom-px});
+
+@mixin center-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
