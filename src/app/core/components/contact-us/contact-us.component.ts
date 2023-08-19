@@ -5,12 +5,12 @@ import { SendMessageModel } from './models/viber-send-message-model';
 
 
 @Component({
-    selector: 'contact-us-form',
-    templateUrl: "contact-us-form.component.html",
-    styleUrls: ["contact-us-form.component.scss"]
+    selector: 'contact-us',
+    templateUrl: "contact-us.component.html",
+    styleUrls: ["contact-us.component.scss"]
 })
 
-export class ContactUsFormComponent{
+export class ContactUsComponent{
     constructor(private renderer: Renderer2, private http: HttpClient) { }
     
     contactForm: ContactUsModel = new ContactUsModel();

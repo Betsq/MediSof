@@ -11,8 +11,25 @@
     display: flex;
 }
 
-.section-one, .section-two{
-    
+.section{
+    display: flex;
+    background-image: url("../../../../assets/images/reception-background.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+    z-index: -2;
+    padding-bottom: 50px;
+}
+
+.section-background{
+    position: absolute; 
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    top: 0;
+    opacity: 0.8;
 }
 
 .left-section, .right-section{
@@ -66,57 +83,7 @@
     width: 100%;
 }
 
-.social-media-nav ul {  
-    display: flex;
-    padding: 0;
-}
 
-
-.social-media-nav ul li {  
-    margin-right: 15px;
-}
-
-.social-media-nav ul li, .facebook, .inst, .viber, .telegram{
-    width: 50px;
-    height: 50px;
-}
-
-.facebook, .inst, .viber, .telegram{
-    display: block; 
-    background-position:center;
-    background-repeat:no-repeat;
-    background-size:cover;
-    cursor: pointer;
-    
-}
-
-.facebook{
-    background-image:url('../../../../assets/images/facebook-50.png');
-}
-
-.facebook:hover{ 
-    background-image:url('../../../../assets/gifs/facebook.gif');
-}
-
-.inst{
-    background-image:url('../../../../assets/images/instagram-50.png');
-}
-
-.inst:hover{
-    background-image:url('../../../../assets/gifs/instagram.gif');
-}
-
-.viber{
-    background-image:url('../../../../assets/images/viber-50.png');
-}
-
-.viber:hover{
-    background-image:url('../../../../assets/gifs/viber.gif');
-}
-
-.telegram{
-    background-image:url('../../../../assets/images/telegram-50.png');
-}
 
 .right-section{
     margin-left: 10px;  

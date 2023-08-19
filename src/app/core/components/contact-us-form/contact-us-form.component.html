@@ -1,0 +1,16 @@
+<div class="container">
+    <mat-form-field class="example-full-width">
+        <mat-label>Номер телефону</mat-label>
+        <span class="mat-prefix-phone-number" matPrefix>+380 &nbsp;</span>
+        <input type="tel" matInput placeholder="67-911-22-33">
+        <mat-icon matSuffix>phone</mat-icon>
+        </mat-form-field>
+    
+        
+        <button mat-raised-button color="primary" class="button-send" (click)="sendNumberPhone()" >
+        <mat-icon *ngIf="sendingRequest">
+            <mat-spinner color="accent" diameter="18"></mat-spinner>
+        </mat-icon>
+        <div *ngIf="!sendingRequest">Primary</div>
+        </button>
+</div>

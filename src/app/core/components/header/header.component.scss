@@ -1,4 +1,5 @@
 @import "../../../shared/styles/shared-color.scss";
+@import "../../../shared/styles/shared.scss";
 
 .header {
     margin: auto;
@@ -8,25 +9,30 @@
     padding: 20px 10% 20px 10%;
 }
 
+.container{
+    display: flex;
+    margin: auto;
+}
+
 .logo {
     max-width: 80px;
     max-height: 80px;
 }
 
-nav {
+.navigation-container {
     display: flex;
     align-items: center;
 }
 
-nav ul {
+.navigation-container ul {
     display: flex;
 }
 
-nav ul li {
+.navigation-container ul li {
     margin: 0 20px 0 20px;
 }
 
-nav ul li a {
+.navigation-container ul li a {
     color: $main-color;
     font-family: "RobotoMedium";
     background: linear-gradient($main-color 0 0) var(--p, 0) / var(--p, 0) no-repeat;
@@ -35,7 +41,92 @@ nav ul li a {
     border-radius: 5px;
 }
 
-nav ul li a:hover {
+.navigation-container ul li a:hover {
     --p: 100%;
     color: #fff;
+}
+
+.phone-number{
+    display: flex;
+}
+
+.phone-number{
+    a {
+        @include center-all;
+    }
+}
+
+.phone-number a::before{
+    background-image: url("../../../../assets/images/phone-50.png");
+    background-size: 19px;
+    width: 22px; 
+    height: 19px;
+    content:"";
+    margin-right: 5px;
+    @include center-all;
+    background-repeat: no-repeat;
+    flex-direction: row;
+}
+
+.phone-number:hover{
+    a{
+        color: $white;
+    }
+}
+
+.social-media-nav ul {  
+    display: flex;
+    padding: 0;
+}
+
+
+.social-media-nav ul li {  
+    margin-right: 15px;
+}
+
+.social-media-nav ul li, .facebook, .inst, .viber, .telegram{
+    width: 35px;
+    height: 35px;
+}
+
+.facebook, .inst, .viber, .telegram{
+    display: block; 
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    cursor: pointer;
+    
+}
+
+.facebook{
+    background-image:url('../../../../assets/images/facebook-50.png');
+}
+
+.facebook:hover{ 
+    //background-image:url('../../../../assets/gifs/facebook.gif');
+}
+
+.inst{
+    background-image:url('../../../../assets/images/instagram-50.png');
+}
+
+.inst:hover{
+    //background-image:url('../../../../assets/gifs/instagram.gif');
+}
+
+.viber{
+    background-image:url('../../../../assets/images/viber-50.png');
+}
+
+.viber:hover{
+    //background-image:url('../../../../assets/gifs/viber.gif');
+}
+
+.telegram{
+    background-image:url('../../../../assets/images/telegram-50.png');
+}
+
+.social-media-nav{
+    border-left: #efcbba 1px solid;
+    padding-left: 20px;
 }

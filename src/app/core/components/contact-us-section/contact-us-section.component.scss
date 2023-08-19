@@ -55,9 +55,12 @@ contact-us-form{
     align-items: center;
 }
 
+.information-about-location-phone a:hover, .information-about-location-street a:hover{
+    color: $white;
+}
+
 .information-about-location-phone::before, .information-about-location-street::before{
     background-size: 19px;
-    display: inline-block;
     width: 22px; 
     height: 19px;
     content:"";

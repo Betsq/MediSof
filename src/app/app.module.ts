@@ -7,29 +7,33 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './core/components/header/header.component';
 import { HomeComponent } from './core/components/Home/home.component';
 import { ServicesComponent } from './core/components/services/services.component';
-import { ContactUsCopyComponent } from './core/components/contact-us-copy/contact-us.component';
 import { HttpClientModule }   from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { OurAdvantagesComponent } from './core/components/our-advantages/our-advantages.component';
 import { OurLocationComponent } from './core/components/out-location/our-location.component';
-import { ContactUsFormComponent } from './core/components/contact-us/contact-us.component';
+import { ContactUsComponent } from './core/components/contact-us/contact-us.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatRippleModule} from '@angular/material/core';
 import { MainServicesComponent } from './core/components/main-services/main-services.component';
 import { ContactUsSectionComponent } from './core/components/contact-us-section/contact-us-section.component';
 import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
 import {MatInputModule} from '@angular/material/input';
+import { ContactUsFormComponent } from './core/components/contact-us-form/contact-us-form.component';
+import {MatIconModule} from '@angular/material/icon';
+import {MatFormFieldModule} from '@angular/material/form-field';
+import {MatButtonModule} from '@angular/material/button';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'services', component: ServicesComponent },
-  { path: '', component: HomeComponent }
+  { path: 'contacts', component: ContactUsComponent }
 ];
 
 @NgModule({
   declarations: [
-    AppComponent, HomeComponent, HeaderComponent, ServicesComponent, ContactUsCopyComponent, OurAdvantagesComponent,
-    OurLocationComponent, ContactUsFormComponent, MainServicesComponent, ContactUsSectionComponent
+    AppComponent, HomeComponent, HeaderComponent, ServicesComponent, OurAdvantagesComponent,
+    OurLocationComponent, ContactUsComponent, MainServicesComponent, ContactUsSectionComponent,
+    ContactUsFormComponent
   ],
   imports: [
     BrowserModule,
@@ -39,7 +43,11 @@ const appRoutes: Routes = [
     BrowserAnimationsModule,
     MatRippleModule,
     MatProgressSpinnerModule,
-    MatInputModule
+    MatInputModule,
+    MatFormFieldModule,
+    MatIconModule,
+    MatButtonModule
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
