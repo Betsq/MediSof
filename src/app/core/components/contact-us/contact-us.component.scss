@@ -10,7 +10,7 @@ h1{
 }
 
 .contact-form{
-    background-color: aqua;
+    background-color: #f6e5f7;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -18,9 +18,16 @@ h1{
     padding: 50px 0 50px 0;
 }
 
+.back{
+    background-color: #f6e5f7;
+    position: absolute;
+    width: 100%;
+}
+
 .social-media-container{
     position: relative;
-    background-color:aquamarine;
+    background-color:#e8beeb;
+    padding: 20px 0 4px 0;
 }
 
 .information-card{
@@ -107,4 +114,8 @@ h1{
 
 .telegram{
     background-image:url('../../../../assets/images/telegram-50.png');
+}
+
+.phoneNumber:hover, .address:hover{
+    color: $second-color;
 }

@@ -1,5 +1,6 @@
 <div class="container">
    <div class="contact-form">
+      <div class="back"></div>
       <h1 class="title">Контакти</h1>
       <p>Розкрийте свою красу! Залиште свій номер для консультації!</p>
       <contact-us-form></contact-us-form>
@@ -36,11 +37,11 @@
       <div class="information-card">
          <div>
             <h2 class="title">Зателефонуйте нам</h2>
-            <a href="{{sharedInforamtion.phoneNumberLink}}">{{sharedInforamtion.phoneNumber}}</a>
+            <a class="phoneNumber" href="{{sharedInforamtion.phoneNumberLink}}">{{sharedInforamtion.phoneNumber}}</a>
          </div>
          <div>
             <h2 class="title">Адреса</h2>
-            <p>м. Львів, Князя Романа, 11</p>
+            <a class="address" href="{{sharedInforamtion.addressLink}}" target="_blank">{{sharedInforamtion.address}}</a>
          </div>
          <div>
             <h2 class="title">Години работи</h2>

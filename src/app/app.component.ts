@@ -1,4 +1,6 @@
-import { Component, Renderer2 } from '@angular/core';
+import { Component } from '@angular/core';
+import { MatDialog, MatDialogModule } from '@angular/material/dialog';
+import { ContactUsPopUpComponent } from './core/components/contact-us-pop-up/contact-us-pop-up.component';
 
 @Component({
   selector: 'app-root',
@@ -6,16 +8,15 @@ import { Component, Renderer2 } from '@angular/core';
   styleUrls: ['app.component.scss']
 })
 export class AppComponent {
-  constructor(private renderer: Renderer2){
-
-  }
+  constructor(public dialog: MatDialog) {}
+  
   title = 'Medi Sof';
 
-  openContactUsForm(){        
-    const componentElement = document.querySelector('contact-us-copy');
+  openPopUp(){
+    const dialogRef = this.dialog.open(ContactUsPopUpComponent);
 
-    if(componentElement ){
-      this.renderer.setStyle(componentElement, 'display', 'block');
-    }
+    dialogRef.afterClosed().subscribe(result => {
+    
+    });
   }
 }

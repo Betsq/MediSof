@@ -14,13 +14,15 @@ import { ContactUsComponent } from './core/components/contact-us/contact-us.comp
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatRippleModule} from '@angular/material/core';
 import { MainServicesComponent } from './core/components/main-services/main-services.component';
-import { ContactUsSectionComponent } from './core/components/contact-us-section/contact-us-section.component';
 import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
 import {MatInputModule} from '@angular/material/input';
 import { ContactUsFormComponent } from './core/components/contact-us-form/contact-us-form.component';
 import {MatIconModule} from '@angular/material/icon';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatButtonModule} from '@angular/material/button';
+import { OurLocationComponent } from './core/components/contact-us-section/our-location.component';
+import {MatDialogModule} from '@angular/material/dialog';
+import { ContactUsPopUpComponent } from './core/components/contact-us-pop-up/contact-us-pop-up.component';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
@@ -31,7 +33,7 @@ const appRoutes: Routes = [
 @NgModule({
   declarations: [
     AppComponent, HomeComponent, HeaderComponent, ServicesComponent, OurAdvantagesComponent,
-    ContactUsComponent, MainServicesComponent, ContactUsSectionComponent,
+    ContactUsComponent, MainServicesComponent, OurLocationComponent, ContactUsPopUpComponent,
     ContactUsFormComponent
   ],
   imports: [
@@ -45,8 +47,8 @@ const appRoutes: Routes = [
     MatInputModule,
     MatFormFieldModule,
     MatIconModule,
-    MatButtonModule
-    
+    MatButtonModule,
+    MatDialogModule
   ],
   providers: [],
   bootstrap: [AppComponent]

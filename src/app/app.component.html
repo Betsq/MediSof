@@ -1,8 +1,9 @@
 <header-component></header-component>
 <div class="container">
     <router-outlet></router-outlet>
-    <button matRipple class="contact-with-us-button" (click)="openContactUsForm()">
-        Зв'язатися з нами
+
+    <button mat-raised-button class="button-open-pop-up" (click)="openPopUp()">
+        <div class="button-open-pop-up-title">Зв'язатися з нами</div>
     </button>
 </div>
 
