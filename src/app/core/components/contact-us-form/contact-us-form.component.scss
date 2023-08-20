@@ -1,3 +1,5 @@
+@import "../../../shared/styles/shared-color.scss";
+
 .container{
     display: flex;
     flex-direction: column;
@@ -11,8 +13,17 @@
     width: 180px;
     height: 50px;
     font-size: 16px;
+    background-color: $second-color!important;
 }
 
 .mat-prefix-phone-number{
     margin-left: 10px;
+}
+
+mat-spinner::ng-deep circle {
+    stroke: $white  ;
+}
+
+.button-send-title{
+    color: $white;
 }

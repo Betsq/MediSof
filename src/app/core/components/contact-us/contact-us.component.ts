@@ -2,7 +2,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Component, Renderer2 } from '@angular/core'
 import { ContactUsModel } from './models/contact-us-model';
 import { SendMessageModel } from './models/viber-send-message-model';
-
+import * as SharedInformation from "../../../shared/shared-information.json";
 
 @Component({
     selector: 'contact-us',
@@ -13,6 +13,8 @@ import { SendMessageModel } from './models/viber-send-message-model';
 export class ContactUsComponent{
     constructor(private renderer: Renderer2, private http: HttpClient) { }
     
+    sharedInforamtion: any = SharedInformation;
+
     contactForm: ContactUsModel = new ContactUsModel();
     rippleColor: string = "grey";
 

@@ -7,11 +7,6 @@
 }
 
 .section{
-    padding: 0 60px 0 60px;
-    display: flex;
-}
-
-.section{
     display: flex;
     background-image: url("../../../../assets/images/reception-background.jpg");
     background-repeat: no-repeat, repeat;
@@ -32,17 +27,16 @@
     opacity: 0.8;
 }
 
-.left-section, .right-section{
-    width: 50%;
-}
-.left-section{
+.title-section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
     margin-right: 10px;
 }
 
-.left-section, .right-section
-{
-    position: relative;
-}
 
 .title{
     font-size: 135px;   
@@ -57,45 +51,10 @@
 .description{
     color: #757575;
     font-family: "RobotoMedium";
+    display: block;
+    margin: auto;
 }
 
-.find-on-map-button{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: none;
-    border-radius: 5px;
-    background-color: $main-color;
-    cursor: pointer;
-    -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none;
-    max-width: 180px;
-    
-}
-
-.find-on-map-title{
-    color: white;
-    font-family: "RobotoMedium";
-    padding: 10px 5px 10px 5px;
-    height: 100%;
-    text-align: center;
-    width: 100%;
-}
-
-
-
-.right-section{
-    margin-left: 10px;  
-}
-
-.image-doctor {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    max-height: 100%;
-    z-index: 777;
-}
 
 contact-us{
     justify-content: center;

@@ -5,7 +5,7 @@
     margin: auto;
     background-color: $second-color;
     display: flex;
-    border-bottom: 2px #efcbba solid;
+    border-bottom: 2px $border-color solid;
     padding: 20px 10% 20px 10%;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .navigation-container ul li a {
-    color: $main-color;
+    color: $white;
     font-family: "RobotoMedium";
     background: linear-gradient($main-color 0 0) var(--p, 0) / var(--p, 0) no-repeat;
     transition: .4s, background-position 0s;
@@ -43,7 +43,6 @@
 
 .navigation-container ul li a:hover {
     --p: 100%;
-    color: #fff;
 }
 
 .phone-number{
@@ -127,6 +126,6 @@
 }
 
 .social-media-nav{
-    border-left: #efcbba 1px solid;
+    border-left: $border-color 1px solid;
     padding-left: 20px;
 }

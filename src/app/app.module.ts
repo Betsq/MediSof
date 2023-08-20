@@ -10,7 +10,6 @@ import { ServicesComponent } from './core/components/services/services.component
 import { HttpClientModule }   from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { OurAdvantagesComponent } from './core/components/our-advantages/our-advantages.component';
-import { OurLocationComponent } from './core/components/out-location/our-location.component';
 import { ContactUsComponent } from './core/components/contact-us/contact-us.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatRippleModule} from '@angular/material/core';
@@ -32,7 +31,7 @@ const appRoutes: Routes = [
 @NgModule({
   declarations: [
     AppComponent, HomeComponent, HeaderComponent, ServicesComponent, OurAdvantagesComponent,
-    OurLocationComponent, ContactUsComponent, MainServicesComponent, ContactUsSectionComponent,
+    ContactUsComponent, MainServicesComponent, ContactUsSectionComponent,
     ContactUsFormComponent
   ],
   imports: [

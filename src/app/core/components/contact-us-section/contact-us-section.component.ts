@@ -1,4 +1,5 @@
 import { Component } from "@angular/core";
+import * as SharedInformation from "../../../shared/shared-information.json";
 
 @Component({
     selector: 'contact-us-section',
@@ -7,5 +8,5 @@ import { Component } from "@angular/core";
 })
 
 export class ContactUsSectionComponent{
-    
+    sharedInformation: any = SharedInformation;
 }
