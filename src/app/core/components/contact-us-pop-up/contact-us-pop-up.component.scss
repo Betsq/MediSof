@@ -10,3 +10,22 @@
 .title-text{
     padding: 0 10px 0 10px;
 }
+
+.button-close{
+    border: none;
+    background: none;
+    cursor: pointer;
+    margin-left: auto;
+    padding: 0;
+}
+
+::ng-deep.cdk-overlay-container{
+    z-index: 999999999999999999999999999;
+}
+
+
+.close-icon{
+    &:hover{
+        color: $main-color;
+    }
+}

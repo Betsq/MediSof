@@ -1,4 +1,5 @@
 import { Component } from "@angular/core";
+import {Title} from "@angular/platform-browser";
 
 @Component({
     selector: 'home',
@@ -7,5 +8,7 @@ import { Component } from "@angular/core";
 })
 
 export class HomeComponent {
-
+    constructor(private titleService:Title) {
+        this.titleService.setTitle("Головна сторінка - MediSof");
+    }
 }
