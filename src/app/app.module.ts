@@ -1,8 +1,8 @@
-import { NgModule } from '@angular/core';
+import { NgModule, CUSTOM_ELEMENTS_SCHEMA} from '@angular/core';
+
 import { BrowserModule } from '@angular/platform-browser';
 import {Routes, RouterModule} from '@angular/router';
 
-import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './core/components/header/header.component';
 import { HomeComponent } from './core/components/Home/home.component';
@@ -23,6 +23,8 @@ import {MatButtonModule} from '@angular/material/button';
 import { OurLocationComponent } from './core/components/contact-us-section/our-location.component';
 import {MatDialogModule} from '@angular/material/dialog';
 import { ContactUsPopUpComponent } from './core/components/contact-us-pop-up/contact-us-pop-up.component';
+
+import { SlickCarouselModule } from 'ngx-slick-carousel';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
@@ -48,10 +50,14 @@ const appRoutes: Routes = [
     MatFormFieldModule,
     MatIconModule,
     MatButtonModule,
-    MatDialogModule
+    MatDialogModule,
+    SlickCarouselModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
 
-export class AppModule { }
+export class AppModule { 
+  
+}

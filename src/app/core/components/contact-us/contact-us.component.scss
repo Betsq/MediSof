@@ -25,21 +25,19 @@ h1{
 }
 
 .social-media-container{
-    position: relative;
     background-color:#e8beeb;
     padding: 20px 0 4px 0;
 }
 
 .information-card{
-    position: absolute;
-    right: 60px;
-    top: 39px;
     background-color: $white;
     -webkit-box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75);
     box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75);
     border-radius: 5px;
     padding: 20px;
+    max-height: 300px;
+    margin: auto 0 auto 0;
 }
 
 .information-container{
@@ -48,7 +46,12 @@ h1{
 
 .information-block{
     display: flex;
-    max-width: 70%;
+    justify-content: space-around;
+}
+
+.our-social-media-container{
+    max-width: 40%;
+    margin-right: 40px;
 }
 
 .our-social-media-container, .our-location-container{
@@ -92,24 +95,12 @@ h1{
     background-image:url('../../../../assets/images/facebook-50.png');
 }
 
-.facebook:hover{ 
-    //background-image:url('../../../../assets/gifs/facebook.gif');
-}
-
 .inst{
     background-image:url('../../../../assets/images/instagram-50.png');
 }
 
-.inst:hover{
-    //background-image:url('../../../../assets/gifs/instagram.gif');
-}
-
 .viber{
     background-image:url('../../../../assets/images/viber-50.png');
-}
-
-.viber:hover{
-    //background-image:url('../../../../assets/gifs/viber.gif');
 }
 
 .telegram{

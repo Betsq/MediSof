@@ -9,4 +9,5 @@ import * as SharedInformation from "../../../shared/shared-information.json";
 
 export class OurLocationComponent{
     sharedInformation: any = SharedInformation;
+
 }

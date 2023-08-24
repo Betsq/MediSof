@@ -57,15 +57,19 @@
 }
 
 .phone-number a::before{
-    background-image: url("../../../../assets/images/phone-50.png");
-    background-size: 19px;
+    font-family: "Material Icons";
     width: 22px; 
     height: 19px;
-    content:"";
+    font-size: 24px;
+    content:"call";
     margin-right: 5px;
     @include center-all;
     background-repeat: no-repeat;
     flex-direction: row;
+}
+
+.phone-number a:hover::before{
+    color: $white;
 }
 
 .phone-number:hover{
