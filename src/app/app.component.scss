@@ -30,6 +30,34 @@
     background-color: $second-color!important;
 }
 
+.button-open-pop-up::before, .button-open-pop-up::after{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: $second-color;
+    z-index: -1999;
+    opacity: 0.7;
+    border-radius: 5px;
+}
+
+.button-open-pop-up::before{
+    animation: pulse 2s ease-out infinite;
+    animation-delay: 1000ms;
+}
+
+.button-open-pop-up::after{
+    animation: pulse 2s 1s ease-out infinite;
+    animation-delay: 1000ms;
+}
+
+@keyframes pulse{
+    100%{
+        transform: scale(1.1, 1.4);
+        opacity: 0;
+    }
+}
+
 .button-open-pop-up-title{
     color: $white;
 }   

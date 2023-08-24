@@ -47,6 +47,7 @@
 
 .phone-number{
     display: flex;
+    margin-right: 20px;
 }
 
 .phone-number{
@@ -128,4 +129,5 @@
 .social-media-nav{
     border-left: $border-color 1px solid;
     padding-left: 20px;
+    display: flex;
 }
