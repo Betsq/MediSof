@@ -1,9 +1,6 @@
 @import "../../../shared/styles/shared-color.scss";
 @import "../../../shared/styles/shared.scss";
 
-
-$information-about-location-back-polygon: polygon(10% 0, 100% 0%, 100% 100%, 10% 100%, 10% 55%, 5% 45%, 10% 35%);
-
 contact-us-form{
     width: 100%;
 }
@@ -14,36 +11,13 @@ contact-us-form{
     width: 100%;;
 }   
 
-.facility{
-    display: flex; 
-    align-items: center;
-    border: 1px solid;
-    border-radius: 5px;
-    border-color: $main-color;
-    padding-right: 20px;
-}
-
-.facility-number{
-    @include center-all;
-    margin: 0 30px 0 30px;
-    background-color: $main-color;
-    padding: 20px;
-    border-radius: 100%;
-    line-height: 20px;
-    width: 20px;
-    height: 20px;
-    min-width: 20px;
-    color: $white;
-}
-
 .information-about-location{
-    padding: 0px 10px 20px 40px;
-    -webkit-clip-path: $information-about-location-back-polygon;
-    clip-path: $information-about-location-back-polygon;
+    padding: 0px 10px 20px 10px;
     background-color: $main-color;
     margin-right: 20px;
     max-width: 250px;
     max-height: 296px;
+    border-radius: 5px;
 }
 
 .information-about-location-title{

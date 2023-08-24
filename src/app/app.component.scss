@@ -14,7 +14,6 @@
     height: 50px;
     border: none;
     border-radius: 5px;
-    background-color: $main-color;
     color: white;
     font-family: "RobotoMedium";
     cursor: pointer;
@@ -24,8 +23,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 180px;
-    height: 50px;
     font-size: 16px;
     background-color: $second-color!important;
 }
