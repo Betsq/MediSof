@@ -25,6 +25,7 @@ import {MatDialogModule} from '@angular/material/dialog';
 import { ContactUsPopUpComponent } from './core/components/contact-us-pop-up/contact-us-pop-up.component';
 
 import { SlickCarouselModule } from 'ngx-slick-carousel';
+import { DirectivesModule } from './directives/swiper.module';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
@@ -51,7 +52,8 @@ const appRoutes: Routes = [
     MatIconModule,
     MatButtonModule,
     MatDialogModule,
-    SlickCarouselModule
+    SlickCarouselModule,
+    DirectivesModule
   ],
   providers: [],
   bootstrap: [AppComponent],
