@@ -1,4 +1,5 @@
 @import "../../../shared/styles/shared-color.scss";
+@import "../../../shared/styles/shared.scss";
 
 h1{
     margin: 0;
@@ -109,4 +110,16 @@ h1{
 
 .phoneNumber:hover, .address:hover{
     color: $second-color;
+}
+
+.phone-number-container, .address-container{
+    display: flex;
+}
+
+.phone-number-container::before{
+    @include phone-icon-ba;
+}
+
+.address-container::before{
+    @include location-icon-ba;
 }

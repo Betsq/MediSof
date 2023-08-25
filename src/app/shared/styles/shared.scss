@@ -19,3 +19,13 @@ $header-height: calc(#{$header-bottom-and-top-padding * 2} + #{$header-max-heigh
     @include center-all;
     background-repeat: no-repeat;
 }
+
+@mixin location-icon-ba{
+    background-size: 19px;
+    width: 22px; 
+    height: 19px;
+    content:"";
+    @include center-all;
+    background-repeat: no-repeat;
+    background-image: url("../../../../assets/images/location-50.png");
+}
