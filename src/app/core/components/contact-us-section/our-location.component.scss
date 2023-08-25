@@ -33,7 +33,7 @@ contact-us-form{
     color: $white;
 }
 
-.information-about-location-phone::before, .information-about-location-street::before{
+.information-about-location-street::before{
     background-size: 19px;
     width: 22px; 
     height: 19px;
@@ -44,7 +44,7 @@ contact-us-form{
 }
 
 .information-about-location-phone::before{
-    background-image: url("../../../../assets/images/phone-50.png");
+    @include phone-icon-ba;
 }
 
 .information-about-location-street::before{

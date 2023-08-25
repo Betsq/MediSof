@@ -15,7 +15,6 @@
 }
 
 .card-container{
-    width: 100%;
     display: grid;
     grid-template-columns: repeat(2, 650px); 
     grid-template-rows: repeat(2, 300px); 
@@ -60,4 +59,3 @@
     height: 100%;
     background-color: rgb(148, 148, 148);
 }
-
