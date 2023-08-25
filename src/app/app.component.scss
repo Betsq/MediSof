@@ -13,7 +13,7 @@
     width: 180px;
     height: 50px;
     border: none;
-    border-radius: 5px;
+    border-radius: 20px 20px 0 20px;
     color: white;
     font-family: "RobotoMedium";
     cursor: pointer;
@@ -25,36 +25,35 @@
     align-items: center;
     font-size: 16px;
     background-color: $second-color!important;
+    
 }
 
-.button-open-pop-up::before, .button-open-pop-up::after{
-    content: "";
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    background-color: $second-color;
-    z-index: -1999;
-    opacity: 0.7;
-    border-radius: 5px;
-}
-
-.button-open-pop-up::before{
-    animation: pulse 2s ease-out infinite;
-    animation-delay: 1000ms;
-}
-
-.button-open-pop-up::after{
-    animation: pulse 2s 1s ease-out infinite;
-    animation-delay: 1000ms;
-}
-
-@keyframes pulse{
-    100%{
-        transform: scale(1.1, 1.4);
-        opacity: 0;
-    }
-}
+//@keyframes pulse{
+  //  100%{
+    //    transform: scale(1.1, 1.4);
+      //  opacity: 0;
+    //}
+//}
 
 .button-open-pop-up-title{
     color: $white;
+    @include center-all;
 }   
+
+.button-open-pop-up-title::after{
+    font-family: "Material Icons";
+    content: "comment";
+    font-size: 26px;
+    margin-left: 10px;
+    @include center-all;
+    animation: tilt-shaking 0.5s infinite;
+}
+
+@keyframes tilt-shaking {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(5deg); }
+    50% { transform: rotate(0eg); }
+    75% { transform: rotate(-5deg); }
+    100% { transform: rotate(0deg); }
+  }
+  
