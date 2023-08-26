@@ -11,11 +11,19 @@ import { ServiceData } from "./services.model";
 export class ServicesComponent{
 
     listServiceData: any = serviceData;
+    panelOpenState = false;
 
     expandListService(serviceList: any, serviceCard: any) {
-        serviceList.style.display = serviceList.style.display == "block" ? "none" : "block";
 
-        serviceList.classList.contains("active") ? serviceList.classList.remove("active") : serviceList.classList.add("active");
-        serviceCard.classList.contains("expanded") ? serviceCard.classList.remove("expanded") : serviceCard.classList.add("expanded");
+        if(serviceList.classList.contains("active")){
+            serviceList.style.maxHeight = 0;
+            serviceList.classList.remove("active");
+            serviceCard.classList.remove("expanded");
+        }
+        else{
+            serviceList.classList.add("active");
+            serviceCard.classList.add("expanded");
+            serviceList.style.maxHeight = serviceList.scrollHeight + "px";
+        }
     }
 }

@@ -1,22 +1,20 @@
 <div class="main-section">
-    <h1>
-        Послуги
-    </h1>
+    <h1>Послуги</h1>
     <div *ngFor="let ser of listServiceData.default" class="service-container">
         <div class="service-card" #servicecard (click)="expandListService(servicelist, servicecard)">
-            <h2 class="service-card-title">{{ser.title}}</h2>
+            <h2 class="service-card-title">{{ ser.title }}</h2>
             <p>
-                <img class="serivce-image" src="{{ser.imgPath}}" alt="Масаж">
+                <img class="serivce-image" src="{{ ser.imgPath }}" alt="Масаж" />
             </p>
         </div>
-            <ul #servicelist class="service-list" style="display: none;" >
-                <li *ngFor="let service of ser.services" >
-                   <div class="service-list-container">
+        <ul #servicelist class="service-list">
+            <li *ngFor="let service of ser.services">
+                <div class="service-list-container">
                     <p class="service-name">
-                        {{service.name}}
+                        {{ service.name }}
                     </p>
-                   </div>
-                </li>
-            </ul>
+                </div>
+            </li>
+        </ul>
     </div>
 </div>

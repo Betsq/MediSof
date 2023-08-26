@@ -75,14 +75,17 @@ contact-us-form{
 
 .swiper{
     max-width: 320px;
-    margin: 0;
+    margin: 0 0 0 20px;
 }
 
-.slide-img{
-    height: 320px;
-    width: 320px;
-}
+
 
 .swiper-slide{
     background-color: aqua;
+}
+
+.slide-img{
+    height: 312px;
+    width: 320px;
+    border-radius: 5px;
 }

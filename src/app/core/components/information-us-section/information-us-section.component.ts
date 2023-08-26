@@ -16,10 +16,8 @@ export class InformationUsSectionComponent{
         spaceBetween: 25,
         navigation: true,
         loop: true,
-        scrollbar: {
-          el: '.swiper-scrollbar',
-          enabled: true,
-          draggable: true
-        }
+        autoplay: true,
+        pagination: true,
+        keyboard: true
       }
 }
