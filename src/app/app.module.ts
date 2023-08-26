@@ -20,24 +20,24 @@ import { ContactUsFormComponent } from './core/components/contact-us-form/contac
 import {MatIconModule} from '@angular/material/icon';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatButtonModule} from '@angular/material/button';
-import { OurLocationComponent } from './core/components/contact-us-section/our-location.component';
 import {MatDialogModule} from '@angular/material/dialog';
 import { ContactUsPopUpComponent } from './core/components/contact-us-pop-up/contact-us-pop-up.component';
 
 import { SlickCarouselModule } from 'ngx-slick-carousel';
 import { DirectivesModule } from './directives/swiper.module';
+import { InformationUsSectionComponent } from './core/components/information-us-section/information-us-section.component';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'services', component: ServicesComponent },
-  { path: 'contacts', component: ContactUsComponent }
+  { path: 'contacts', component: ContactUsComponent}
 ];
 
 @NgModule({
   declarations: [
     AppComponent, HomeComponent, HeaderComponent, ServicesComponent, OurAdvantagesComponent,
-    ContactUsComponent, MainServicesComponent, OurLocationComponent, ContactUsPopUpComponent,
-    ContactUsFormComponent
+    ContactUsComponent, MainServicesComponent, ContactUsPopUpComponent,
+    ContactUsFormComponent, InformationUsSectionComponent
   ],
   imports: [
     BrowserModule,

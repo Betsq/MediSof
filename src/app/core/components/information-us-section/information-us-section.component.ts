@@ -3,12 +3,12 @@ import * as SharedInformation from "../../../shared/shared-information.json";
 import { SwiperOptions } from "swiper/types";
 
 @Component({
-    selector: 'our-location',
-    templateUrl: 'our-location.component.html',
-    styleUrls: ['our-location.component.scss']
+    selector: 'information-us-section',
+    templateUrl: 'information-us-section.component.html',
+    styleUrls: ['information-us-section.component.scss']
 })
 
-export class OurLocationComponent{
+export class InformationUsSectionComponent{
     sharedInformation: any = SharedInformation;
 
     public config: SwiperOptions = {
