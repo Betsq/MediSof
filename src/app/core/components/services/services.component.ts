@@ -16,9 +16,9 @@ export class ServicesComponent{
     expandListService(serviceList: any, serviceCard: any) {
 
         if(serviceList.classList.contains("active")){
-            serviceList.style.maxHeight = 0;
             serviceList.classList.remove("active");
             serviceCard.classList.remove("expanded");
+            serviceList.style.maxHeight = 0;
         }
         else{
             serviceList.classList.add("active");

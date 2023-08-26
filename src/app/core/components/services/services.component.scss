@@ -82,17 +82,20 @@
 .service-list{
     max-height: 0;
     overflow: hidden;
-    transition: max-height 0.3s ease-out;
+    transition-property: max-height, box-shadow, padding-top;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
     list-style: disc;   
     border-radius: 15px;
+
 }
 
 .service-list.active{
+    padding-top: 15px;
+    max-height: 2222px;
     -webkit-box-shadow: 0px 0px 6px 2px rgba(0,0,0,0.15);
     -moz-box-shadow: 0px 0px 6px 2px rgba(0,0,0,0.15);
     box-shadow: 0px 0px 6px 2px rgba(0,0,0,0.15);
-    padding-top: 15px;
-    max-height: 2222px;
 }
 
 .service-list-container{

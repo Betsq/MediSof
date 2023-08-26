@@ -8,7 +8,7 @@ contact-us-form{
 .container {
     @include center-all;
     padding: 50px 0 0 0;
-    width: 100%;;
+    width: 100%;
 }   
 
 .information-about-location{
@@ -17,7 +17,7 @@ contact-us-form{
     margin-right: 20px;
     max-width: 250px;
     max-height: 296px;
-    border-radius: 5px;
+    border-radius: $border-radius;
 }
 
 .information-about-location-title{
@@ -76,6 +76,8 @@ contact-us-form{
 .swiper{
     max-width: 320px;
     margin: 0 0 0 20px;
+    overflow: hidden;
+    border-radius: $border-radius;
 }
 
 
@@ -87,5 +89,9 @@ contact-us-form{
 .slide-img{
     height: 312px;
     width: 320px;
-    border-radius: 5px;
+}
+
+.map-wrapper{
+    border-radius: $border-radius;
+    overflow: hidden;
 }
