@@ -41,6 +41,7 @@
         position: relative;
         &:hover {
           --p: 100%;
+          color: $white;
         }
       }
     }
@@ -105,30 +106,34 @@
 
 .facebook {
   background-image: url("../../../../assets/images/facebook-50.png");
-}
 
-.facebook:hover {
-  //background-image:url('../../../../assets/gifs/facebook.gif');
+  &:hover{
+    background-image: url("../../../../assets/images/facebook-50-white.png");
+  }
 }
 
 .inst {
   background-image: url("../../../../assets/images/instagram-50.png");
-}
 
-.inst:hover {
-  //background-image:url('../../../../assets/gifs/instagram.gif');
+  &:hover{
+    background-image: url("../../../../assets/images/instagram-50-white.png");
+  }
 }
 
 .viber {
   background-image: url("../../../../assets/images/viber-50.png");
-}
 
-.viber:hover {
-  //background-image:url('../../../../assets/gifs/viber.gif');
+  &:hover{
+    background-image: url("../../../../assets/images/viber-50-white.png");
+  }
 }
 
 .telegram {
   background-image: url("../../../../assets/images/telegram-50.png");
+
+  &:hover{
+    background-image: url("../../../../assets/images/telegram-50-white.png");
+  }
 }
 
 .social-media-nav {
@@ -142,7 +147,7 @@
     content: "";
     width: 10px;
     height: 10px;
-    background-color: red;
+    background-color: $tomato-color;
     position: absolute;
     text-align: center;
     border-radius: 50%;

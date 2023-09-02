@@ -1,5 +1,6 @@
 import { Component } from "@angular/core";
 import *  as cosmetics from "../../../../assets/data/cosmeticList.json";
+import { Title } from "@angular/platform-browser";
 
 @Component({
     selector: 'cosmetics',
@@ -8,6 +9,10 @@ import *  as cosmetics from "../../../../assets/data/cosmeticList.json";
 })
 
 export class CosmeticsComponent{
+    constructor(private titleService:Title) {
+        this.titleService.setTitle("Косметика - MediSof");
+    }
+
     cosmeticsList: any = cosmetics;
 
     expandCosmetics(panel: any, serviceCard: any, border: any) {

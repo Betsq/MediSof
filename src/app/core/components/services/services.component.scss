@@ -9,7 +9,11 @@
 }
 
 .service-container{
-    margin-bottom: 60px;
+    margin-bottom: 30px;
+}
+
+.promotion-title{
+    color: $tomato-color;   
 }
 
 .service-card{
@@ -112,4 +116,13 @@
 ul li::marker {
     color: $main-color;
     font-size: 1.1em;
+  }
+
+  .service-list-promotion{
+        li{
+            &::marker{
+                color: $tomato-color!important;
+            }
+        }
+    
   }

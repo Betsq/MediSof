@@ -1,4 +1,23 @@
 <div class="main-section">
+    <h1 class="promotion-title">Акційні послуги</h1>
+    <div class="service-container">
+        <div class="service-card" #promotioHeader (click)="expandListService(promotionList, promotioHeader)">
+            <h2 class="service-card-title">Акційні послуги</h2>
+            <p>
+                <img class="serivce-image" src="https://inspiredprotagonist.com/wp-content/uploads/2023/01/01-The-Benefits-of-Investing-in-Website-Promotion-Services-1.jpg" alt="Масаж" />
+            </p>
+        </div>
+        <ul #promotionList class="service-list service-list-promotion">
+            <li *ngFor="let promotionServices of listPromotionServicesData.default">
+                <div class="service-list-container">
+                    <p class="service-name">
+                        {{ promotionServices.title }}
+                    </p>
+                </div>
+            </li>
+        </ul>
+    </div>
+
     <h1>Послуги</h1>
     <div *ngFor="let ser of listServiceData.default" class="service-container">
         <div class="service-card" #servicecard (click)="expandListService(servicelist, servicecard)">

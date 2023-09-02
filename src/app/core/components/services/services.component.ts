@@ -1,6 +1,8 @@
 import { Component } from "@angular/core";
 import * as serviceData from "../../../../assets/data/ServicesList.json";
-import { ServiceData } from "./services.model";
+import * as promotionServicecData from "../../../../assets/data/promotionServiceList.json";
+import { Title } from "@angular/platform-browser";
+
 
 @Component({
     selector: 'services',
@@ -10,6 +12,11 @@ import { ServiceData } from "./services.model";
 
 export class ServicesComponent{
 
+    constructor(private titleService:Title) {
+        this.titleService.setTitle("Послуги - MediSof");
+    }
+    
+    listPromotionServicesData: any = promotionServicecData;
     listServiceData: any = serviceData;
     panelOpenState = false;
 
