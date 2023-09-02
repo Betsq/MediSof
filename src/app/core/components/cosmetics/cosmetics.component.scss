@@ -1,0 +1,102 @@
+@import "../../../shared/styles/shared-color.scss";
+@import "../../../shared/styles/shared.scss";
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 1236px;
+    margin: auto;
+}
+
+.panel-container{
+    border-radius: $border-radius;   
+    box-shadow: 0px 0px 6px 2px rgba(0,0,0,0.15);
+    margin-top: 20px;
+}
+
+.panel-header{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 15px;
+    position: relative;
+
+    &::before{
+        font-family: "Material Icons";
+        font-size: 60px;
+        content: 'expand_more';
+        position: absolute;
+        margin: auto;
+        right: 25px;
+        z-index: 999;
+        font-weight: 100;
+        transition: transform 0.3s ease;
+    }
+    
+}
+
+.expanded::before {
+    transform: rotate(180deg);
+}
+
+
+.brand-logo{
+    width: 180px;
+    height: 100px;
+}
+
+.header-title{
+    margin-left: 30px;
+}
+
+.active{
+    padding-top: 30px;
+}
+
+.panel-wrapper{
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr ;
+    max-height: 0;
+    overflow: hidden;
+    transition-property: max-height, padding-top, border-top;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.card {
+    margin: 10px;
+    box-shadow: 0px 0px 6px 2px rgba(0,0,0,0.15);
+    border-radius: $border-radius;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.card-image{
+    margin: 0 auto;
+}
+
+.card-title{
+    opacity: 60%;
+}
+
+.card-description{
+    opacity: 87%;
+}
+
+.card-title, .card-description{
+    padding: 10px;
+}
+
+.s{
+    
+    border-radius: 10px;
+    background-color: black;
+    width: 97%;
+    margin: 0 auto;
+    background-color: $border-color;
+}

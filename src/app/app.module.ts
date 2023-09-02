@@ -25,14 +25,15 @@ import { ContactUsPopUpComponent } from './core/components/contact-us-pop-up/con
 
 import { DirectivesModule } from './directives/swiper.module';
 import { InformationUsSectionComponent } from './core/components/information-us-section/information-us-section.component';
-
-import { MatExpansionModule } from '@angular/material/expansion';
 import { FooterComponent } from './core/components/footer/footer.component';
+import { CosmeticsComponent } from './core/components/cosmetics/cosmetics.component';
+import { MatExpansionModule } from '@angular/material/expansion';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'services', component: ServicesComponent },
   { path: 'contacts', component: ContactUsComponent },
+  { path: 'cosmetics', component: CosmeticsComponent}
 ];
 
 @NgModule({
@@ -48,6 +49,7 @@ const appRoutes: Routes = [
     ContactUsFormComponent,
     InformationUsSectionComponent,
     FooterComponent,
+    CosmeticsComponent
   ],
   imports: [
     BrowserModule,
@@ -63,7 +65,7 @@ const appRoutes: Routes = [
     MatButtonModule,
     MatDialogModule,
     DirectivesModule,
-    MatExpansionModule,
+    MatExpansionModule
   ],
   providers: [],
   bootstrap: [AppComponent],
