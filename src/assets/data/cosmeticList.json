@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Косметика від Dove",
+        "logo": "https://assets.stickpng.com/images/589a40535aa6293a4aac48a6.png",
+        "cosmetics": [
+            {
+                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
+                "title": "Gehwol Gerlasan Hand Cream",
+                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+            },
+            {
+                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
+                "title": "Gehwol Gerlasan Hand Cream",
+                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+            },
+            {
+                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
+                "title": "Gehwol Gerlasan Hand Cream",
+                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+            },
+            {
+                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
+                "title": "Gehwol Gerlasan Hand Cream",
+                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+            },
+            {
+                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
+                "title": "Gehwol Gerlasan Hand Cream",
+                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+            },
+            {
+                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
+                "title": "Gehwol Gerlasan Hand Cream",
+                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+            }
+        ]
+    },
+    {
+        "title": "Косметика від BRAND",
+        "logo": "https://assets.stickpng.com/images/589a40535aa6293a4aac48a6.png",
+        "cosmetics": [
+            {
+                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
+                "title": "Gehwol Gerlasan Hand Cream",
+                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+            },
+            {
+                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
+                "title": "Gehwol Gerlasan Hand Cream",
+                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+            },
+            {
+                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
+                "title": "Gehwol Gerlasan Hand Cream",
+                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+            }
+        ]
+    }
+]

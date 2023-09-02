@@ -7,9 +7,10 @@ import { Component } from "@angular/core";
 })
 
 export class ContactUsFormComponent{
+
     sendingRequest: boolean = false;
 
-    sendNumberPhone(){
+    sendEmail() {
         this.sendingRequest = true;
-    }
+      }
 }

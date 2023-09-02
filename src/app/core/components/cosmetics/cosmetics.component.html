@@ -2,40 +2,20 @@
     <div>
 
     </div>
-    <div class="panel-container">
+    <div class="panel-container" *ngFor="let brand of cosmeticsList.default">
         <div class="panel-header" #header (click)="expandCosmetics(panel, header, border)">
-            <img class="brand-logo" src="https://assets.stickpng.com/images/589a40535aa6293a4aac48a6.png" alt="">
-            <h1 class="header-title">Косметика від Dove</h1>
+            <img class="brand-logo" src="{{brand.logo}}" alt="">
+            <h1 class="header-title">{{brand.title}}</h1>
         </div>
         <div class="panel">
-            <div class="s" #border>
+            <div class="border-panel" #border>
 
             </div>
-            <div class="panel-wrapper" #panel>
-                <div class="card">
-                    <img class="card-image" src="https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg" alt="">
-                    <div class="card-title">Gehwol Gerlasan Hand Cream</div>
-                    <p class="card-description">Антисептический спрей для рук, воздуха, помещений и поверхностей</p>
-                </div>
-                <div class="card">
-                    <img class="card-image" src="https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg" alt="">
-                    <div class="card-title">Gehwol Gerlasan Hand Cream</div>
-                    <p class="card-description">Антисептический спрей для рук, воздуха, помещений и поверхностей</p>
-                </div>
-                <div class="card">
-                    <img class="card-image" src="https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg" alt="">
-                    <div class="card-title">Gehwol Gerlasan Hand Cream</div>
-                    <p class="card-description">Антисептический спрей для рук, воздуха, помещений и поверхностей</p>
-                </div>
-                <div class="card">
-                    <img class="card-image" src="https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg" alt="">
-                    <div class="card-title">Gehwol Gerlasan Hand Cream</div>
-                    <p class="card-description">Антисептический спрей для рук, воздуха, помещений и поверхностей</p>
-                </div>
-                <div class="card">
-                    <img class="card-image" src="https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg" alt="">
-                    <div class="card-title">Gehwol Gerlasan Hand Cream</div>
-                    <p class="card-description">Антисептический спрей для рук, воздуха, помещений и поверхностей</p>
+            <div class="panel-wrapper" #panel >
+                <div class="card" *ngFor="let cosmetic of brand.cosmetics">
+                    <img class="card-image" src="{{cosmetic.image}}" alt="">
+                    <div class="card-title">{{cosmetic.title}}</div>
+                    <p class="card-description">{{cosmetic.description}}</p>
                 </div>
             </div>
         </div>

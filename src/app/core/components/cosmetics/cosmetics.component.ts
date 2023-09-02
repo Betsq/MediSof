@@ -1,4 +1,6 @@
 import { Component } from "@angular/core";
+import *  as cosmetics from "../../../../assets/data/cosmeticList.json";
+
 @Component({
     selector: 'cosmetics',
     templateUrl: 'cosmetics.component.html',
@@ -6,6 +8,8 @@ import { Component } from "@angular/core";
 })
 
 export class CosmeticsComponent{
+    cosmeticsList: any = cosmetics;
+
     expandCosmetics(panel: any, serviceCard: any, border: any) {
 
         if(panel.classList.contains("active")){
