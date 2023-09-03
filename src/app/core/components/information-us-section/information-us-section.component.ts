@@ -18,6 +18,15 @@ export class InformationUsSectionComponent{
         loop: true,
         autoplay: true,
         pagination: true,
-        keyboard: true
+        keyboard: true,
+        injectStyles: [
+            `.swiper-button-next,
+            .swiper-button-prev {
+              color: #3e9321;
+            }
+            .swiper-pagination-bullet-active{
+                background: #3e9321;
+            }`
+        ]
       }
 }

@@ -75,35 +75,6 @@
   }
 }
 
-.social-media-nav ul {
-  display: flex;
-  padding: 0;
-}
-
-.social-media-nav ul li {
-  margin-right: 15px;
-}
-
-.social-media-nav ul li,
-.facebook,
-.inst,
-.viber,
-.telegram {
-  width: 35px;
-  height: 35px;
-}
-
-.facebook,
-.inst,
-.viber,
-.telegram {
-  display: block;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  cursor: pointer;
-}
-
 .facebook {
   background-image: url("../../../../assets/images/facebook-50.png");
 

@@ -28,6 +28,7 @@ import { InformationUsSectionComponent } from './core/components/information-us-
 import { FooterComponent } from './core/components/footer/footer.component';
 import { CosmeticsComponent } from './core/components/cosmetics/cosmetics.component';
 import { MatExpansionModule } from '@angular/material/expansion';
+import { SocialMediaIconsComponent } from './shared/components/social-media-icons/social-media-icons.component';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
@@ -49,7 +50,8 @@ const appRoutes: Routes = [
     ContactUsFormComponent,
     InformationUsSectionComponent,
     FooterComponent,
-    CosmeticsComponent
+    CosmeticsComponent,
+    SocialMediaIconsComponent
   ],
   imports: [
     BrowserModule,
