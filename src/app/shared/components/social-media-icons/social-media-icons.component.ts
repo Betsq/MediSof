@@ -8,5 +8,9 @@ import { Component, Input } from "@angular/core";
 })
 
 export class SocialMediaIconsComponent{
-    @Input() size = 50;
+    @Input() size = 35;
+
+    getSize(){
+        return `width: ${this.size}px; height: ${this.size}px;`
+    }
 }
