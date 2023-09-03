@@ -22,10 +22,10 @@ export class InformationUsSectionComponent{
         injectStyles: [
             `.swiper-button-next,
             .swiper-button-prev {
-              color: #3e9321;
+              color: #388E3C;
             }
             .swiper-pagination-bullet-active{
-                background: #3e9321;
+                background: #388E3C;
             }`
         ]
       }

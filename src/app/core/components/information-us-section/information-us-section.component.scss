@@ -9,6 +9,7 @@ contact-us-form{
     @include center-all;
     padding: 50px 0 0 0;
     width: 100%;
+    margin-bottom: 30px;
 }   
 
 .information-about-location{
@@ -27,6 +28,7 @@ contact-us-form{
 .information-about-location-phone, .information-about-location-street{
     display: flex;
     align-items: center;
+    margin: 16px 0;
 }
 
 .information-about-location-phone a:hover, .information-about-location-street a:hover{
@@ -71,6 +73,10 @@ contact-us-form{
 
 .hours-work-time{
     font-size: 15px;
+}
+
+.days-work-time, .hours-work-time{
+    margin: 16px 0;
 }
 
 .swiper{
