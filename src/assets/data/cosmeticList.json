@@ -1,59 +1,2090 @@
 [
     {
-        "title": "Косметика від Dove",
-        "logo": "https://assets.stickpng.com/images/589a40535aa6293a4aac48a6.png",
+        "title": "Косметика від GeneFill",
+        "logo": "../../../../assets/images/cosmetics/company-logo/GeneFill-Logo.png",
         "cosmetics": [
             {
-                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
-                "title": "Gehwol Gerlasan Hand Cream",
-                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/GeneFill/GeneFill-soft-touch-min.jpg",
+                "title": "GeneFill Soft Touch 16 мг",
+                "description": "Філер для губ та обличчя"
             },
             {
-                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
-                "title": "Gehwol Gerlasan Hand Cream",
-                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/GeneFill/GeneFill-dx-min.jpg",
+                "title": "GeneFill DX",
+                "description": "Філлер для заповнення зморшок із декстраномером"
             },
             {
-                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
-                "title": "Gehwol Gerlasan Hand Cream",
-                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/GeneFill/GeneFill-soft-fill-min.jpg",
+                "title": "GeneFill Soft Fill 20 мг",
+                "description": "Біфазний дермальний філер для губ та обличчя"
             },
             {
-                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
-                "title": "Gehwol Gerlasan Hand Cream",
-                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
-            },
-            {
-                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
-                "title": "Gehwol Gerlasan Hand Cream",
-                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
-            },
-            {
-                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
-                "title": "Gehwol Gerlasan Hand Cream",
-                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/GeneFill/GeneFill-fine-min.jpg",
+                "title": "Біоревіталізант GeneFill Fine 14 мг",
+                "description": "Для обличчя"
             }
         ]
     },
     {
-        "title": "Косметика від BRAND",
-        "logo": "https://assets.stickpng.com/images/589a40535aa6293a4aac48a6.png",
+        "title": "Косметика від Arosha",
+        "logo": "../../../../assets/images/cosmetics/company-logo/Arosha-Logo.png",
         "cosmetics": [
             {
-                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
-                "title": "Gehwol Gerlasan Hand Cream",
-                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Body Rescue Stretch Marks Cream.jpg",
+                "title": "Arosha Body Rescue Stretch Marks Cream 200 мл",
+                "description": "Масажний крем з дренуючим ефектом"
             },
             {
-                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
-                "title": "Gehwol Gerlasan Hand Cream",
-                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha SUGARGEL SCRUB PLUS.jpg",
+                "title": "Arosha SUGARGEL SCRUB PLUS 500 мл",
+                "description": "Скраб-ексфоліант для тіла з коричневим цукром"
             },
             {
-                "image": "https://cosmetic.com.ua/images/spool/g/ge/gehwol_handcreme_gerlan.jpg",
-                "title": "Gehwol Gerlasan Hand Cream",
-                "description": "Антисептический спрей для рук, воздуха, помещений и поверхностей"
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Body Lift.jpg",
+                "title": "Arosha Body Lift 100 мл",
+                "description": "Флюїд для тіла, що надає еластичність, на масляній основі"
+            },
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Body Rescue Cellulite Cream.jpg",
+                "title": "Arosha Body Rescue Cellulite Cream 200 мл",
+                "description": "Крем з інтенсивною антицелюлітною дією."
+            },
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Body Rescue Stretch Marks Cream.jpg",
+                "title": "Arosha Body Rescue Stretch Marks Cream 200 мл",
+                "description": "Відновлюючий крем проти розтяжок"
+            },
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Body Rescue Breast & Decolte Cream.jpg",
+                "title": "Arosha Body Rescue Breast & Decolte Cream 100 мл",
+                "description": "Крем, що надає пружність і тонус для грудей і зони декольте"
+            },
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Cell repair.jpg",
+                "title": "Arosha Cell repair 100 мл",
+                "description": "Ремоделюючий флюїд для тіла на олійній основі"
+            },
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Body Rescue Cellulite PLUS Cream.jpg",
+                "title": "Arosha Body Rescue Cellulite PLUS Cream 500 мл",
+                "description": "Інтенсивний антицелюлітний крем"
+            },
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Body Rescue Drain Gel.jpg",
+                "title": "Arosha Body Rescue Drain Gel 200 мл або 500 мл",
+                "description": "Інтенсивний дренажний крем-гель"
+            },
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Body Rescue Firming Plus Cream.jpg",
+                "title": "Arosha Body Rescue Firming Plus Cream 200 мл або 500 мл",
+                "description": "Високоефективний крем для надання пружності та еластичності шкірі"
+            },
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Body Rescue Lipolytic Сream.jpg",
+                "title": "Arosha Body Rescue Lipolytic Сream 200 мл або 500 мл",
+                "description": "Інтенсивний ліполітичний крем"
+            },
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Body Rescue Peeling.jpg",
+                "title": "Arosha Body Rescue Peeling 120 мл",
+                "description": "Ензимна емульсія для надання гладкості та сяйва шкірі"
+            },
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha Body Rescue Texture Cream.jpg",
+                "title": "Arosha Body Rescue Texture Cream 200 мл",
+                "description": "Омолоджуючий крем для тіла з потужною зволожуючою дією"
+            },
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/Arosha/Arosha GLYCOLIC ACID.jpg",
+                "title": "Arosha GLYCOLIC ACID 120 мл",
+                "description": ""
             }
         ]
-    }
+    },
+    {
+        "title": "Косметика від aesPlla",
+        "logo": "../../../../assets/images/cosmetics/company-logo/aesPlla-Logo.png",
+        "cosmetics": [
+            {
+                "image": "../../../../assets/images/cosmetics/cosmetics-image/AesPlla/AesPlla polylactic acid filler.jpg",
+                "title": "Філер полімолочної кислоти AesPlla",
+                "description": "Філер для губ та обличчя"
+            }
+        ]
+    },
+    {
+        "title": "Косметика від Cantabria Labs",
+        "logo": "../../../../assets/images/cosmetics/company-logo/Cantabria-Labs-Logo.png",
+        "cosmetics": [
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-1.jpg",
+              "title": "Biretix Cleanser - Purifying Cleansing Gel Очищаючий гель Cantabria Labs",
+              "description": "Делікатне очищення для жирної та змішаної шкіри, схильної до акне. Сприяє видаленню зі шкіри забрудн.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-2.jpg",
+              "title": "Biretix Duo - Purifying Exfoliant Gel / Anti-Blemish Gel Себорегулюючий гель Cantabria Labs",
+              "description": "Тонкодисперсний збалансований гель для шкіри, схильний до акне на основі інноваційної технології Ret.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-3.jpg",
+              "title": "BIRETIX Focus Gel Targeted Blemish Reducer - локальный фокус-гель анти-акне Cantabria Labs",
+              "description": "BIRETIX Focus Gel Targeted Blemish Reducer ⠀ Інноваційна гелева текстура для швидкого, цілеспрям.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-4.jpg",
+              "title": "BIRETIX Hydramat Матуючий, зволожуючий флюїд проти постакне пігментації",
+              "description": "Матуючий, зволожуючий флюїд проти постакне пігментації. Легкий та швидко вбирається в шкіру, .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-5.jpg",
+              "title": "BIRETIX Mask Sebum Regulating Себорегулююча маска від акне Cantabria Labs",
+              "description": "Маска на основі активної комбінації зеленої та білої глини, а також технології RetinSphere® для .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-6.jpg",
+              "title": "Biretix Micropeel - Purifying Exfoliant Treatment Очищаючий скраб-ексфоліант від акне Cantabria Labs",
+              "description": "М'який скраб, що ексфолює, на ніжній гелевій основі для глибокого очищення шкіри. Ефективно вида.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-7.jpg",
+              "title": "Biretix Tri Active Anti-Blemish Gel - гель три-актив для шкіри з акне Cantabria Labs",
+              "description": "Освіжаючий гель з шовковистою текстурою для шкіри, схильною до акне. Заснований на інноваційній техн.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-8.jpg",
+              "title": "BIRETIX Tri Active Spray Anti-Blemish - спрей три-актив анти-акне Cantabria Labs",
+              "description": "BIRETIX Tri Active Spray Легкий у застосуванні спрей для тіла, який зменшує плями та сліди на вел.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-9.jpg",
+              "title": "Cantabria Labs BIRETIX Isorepair Зволожуючий регенеруючий крем для проблемної шкіри",
+              "description": "Зволожуючий регенеруючий крем для проблемної шкіри Крем для відновлення бар'єрної функції, .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-10.jpg",
+              "title": "Cantabria Labs Endocare C Pure Concentrate Регенеруючий концентрат, що омолоджує, з вітаміном С",
+              "description": "Концентрат призначений для інтенсивної антивікової терапії шкіри при фото- та хроностарінні. Висока .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-11.jpg",
+              "title": "Cantabria Labs Endocare C Pure Ferulic Антиоксидантна захисна сироватка, що регенерує",
+              "description": "Інтенсивна сироватка, що омолоджує, з потужною захисною дією від забруднюючих і стресових факторів н.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-12.jpg",
+              "title": "Cantabria Labs Endocare Concentrate Регенеруючий омолоджуючий концентрат",
+              "description": "Засіб з легкою шовковистою текстурою для забезпечення довготривалого регенеруючого, омолоджувального.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-13.jpg",
+              "title": "Cantabria Labs ENDOCARE EXPERT DROPS Hydrating Protocol - Набір зволожуючих сироваток",
+              "description": "CANTABRIA ENDOCARE EXPERT DROPS Hydrating Protocol Набірсироваток для потужного зволоження.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-14.jpg",
+              "title": "Cantabria labs endocare expert drops антиоксидантна і освітлювальна сиворотки 2 в 1",
+              "description": "ENDOCARE EXPERT DROPS  – це щоденний догляд для освітлення пігментації та вирівнювання т.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-15.jpg",
+              "title": "Cantabria Labs Endocare Eye and Lip Contour Регенеруючий крем, що омолоджує контур для очей і губ",
+              "description": "Зменшує прояви перших ознак старіння шкіри повік. Має омолоджуючу, регенеруючу та антиоксидантну дію.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-16.jpg",
+              "title": "Cantabria Labs Endocare GelCream Регенеруючий омолоджуючий гель-крем",
+              "description": "Сприяє зменшенню ознак фотостаріння та прискоренню відновлення шкіри після агресивних косметичних пр.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-17.jpg",
+              "title": "Cantabria Labs Endocare Renewal Comfort Cream Антивіковий крем із заспокійливими інгредієнтами для чутливої шкіри",
+              "description": "Крем містить зволожуючі та заспокійливі активні речовини, які допомагають заспокоїти подразнену шкір.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-18.jpg",
+              "title": "Cantabria Labs Endocare Renewal Retinol Intensive SerumПотужна ретинолова безводна сироватка, з anti-age дією",
+              "description": "Endocare Renewal Retinol Intensive Serum — це потужна ретинолова безводна сироватка, з anti-ag.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-19.jpg",
+              "title": "Cantabria Labs Endocare Renewal Retinol Serum Сироватка ретинолова безводна anti-age дією",
+              "description": "Endocare Renewal Retinol Serum — це потужна ретинолова безводна сироватка, з anti-age дією, зм.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-20.jpg",
+              "title": "Cantabria Labs Endocare Tensage Concentrate Регенеруючий ліфтинговий концентрат",
+              "description": "Інтенсивний омолоджуючий засіб для відновлення втраченого об'єму шкіри, підвищення її тонусу та .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-21.jpg",
+              "title": "Cantabria Labs Endocare Tensage Cream Регенеруючий крем з ефектом ліфтингу",
+              "description": "Зволожуючий та поживний крем з активними інгредієнтами, що надають потужну ліфтингову та регенеруючу.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-22.jpg",
+              "title": "Cantabria Labs ENDOCARE Tensage Day Cream SPF 30 - Денний ліфтинговий крем",
+              "description": "Денний ліфтинговий крем, що відновлює SPF 30 Tensage Day Cream Endocare Cantabria labs Об'єм 50 .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-23.jpg",
+              "title": "Cantabria Labs Endocare Tensage Radiance Eye Contour Сяючий флюїд для контуру очей з ефектом ліфтингу",
+              "description": "Легкий флюїд для розгладження зморшок навколо очей, зменшення набряклості повік. Кольорові мікропігм.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-24.jpg",
+              "title": "Cantabria Labs Endocare Tensage Serum Регенеруюча ліфтинг-сироватка",
+              "description": "Омолоджуюча ультра-відновна зміцнююча сироватка. Запобігає ознакам фото- та біостаріння. Має потужну.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-25.jpg",
+              "title": "Cantabria Labs Expert drops firming protocol Зміцнюючі сироватки",
+              "description": "Комбінація активних інгредієнтів для розгладження та ліфтингу шкіри  ENDOCARE EXPERT DRO.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-26.jpg",
+              "title": "Cantabria Labs Heliocare 360 Age Active Fluid Sunscreen SPF 50 Антивіковий фотозахисний флюїд",
+              "description": "Антивіковий флюїд SPF 50 Ультралегкий фотозахисний флюїд для запобігання та корекції ознак фото.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-27.jpg",
+              "title": "Cantabria Labs Heliocare 360 ​​Airgel SPF 50+ Сонцезахисний ультралегкий гель із SPF 50+",
+              "description": "Інноваційна пінка-мус: легко наноситься, швидко вбирається, має легку текстурутекстура. Підход.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-28.jpg",
+              "title": "Cantabria Labs Heliocare 360 ​​Color Gel Oil-Free Sunscreen SPF 50+ Beige Тональний сонцезахисний гель з SPF 50+ бежевий",
+              "description": "Тональний фотоімунопротектор з комплексом FERNBLOCK® FC та іншими активними компонентами з антио.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-29.jpg",
+              "title": "Cantabria Labs Heliocare 360 ​​Color Gel Oil-Free Sunscreen SPF 50+ Pearl Тональний сонцезахисний гель з SPF 50+ перлинний",
+              "description": "Тональний фотоімунопротектор з комплексом FERNBLOCK® FC та іншими активними компонентами з антио.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-30.jpg",
+              "title": "Cantabria Labs Heliocare 360 ​​Fluid Cream SPF 50+ Сонцезахисний крем-флюїд з SPF 50+ для всіх типів шкіри",
+              "description": "Фотоімунопротектор з дуже високим ступенем захисту. Чинить мультипротекторну дію, захищаючи шкіру ві.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-31.jpg",
+              "title": "Cantabria Labs Heliocare 360 ​​Gel Oil-Free Dry Touch SPF 50 Sunscreen SPF 50+ Сонцезахисний гель на водній основі з SPF 50+ для нормальної та жирної шкіри",
+              "description": "Забезпечує високий рівень фотоімунного захисту, має ексклюзивну текстуру \"dry touch\". Завд.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-32.jpg",
+              "title": "Cantabria Labs Heliocare 360 ​​Invisible Spray SPF 50+ Сонцезахисний спрей невидимка з SPF 50+",
+              "description": "Дуже високий фотоімунозахист з повітряною та невидимою текстурою.  Показання: .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-33.jpg",
+              "title": "Cantabria Labs Heliocare 360 ​​MD AK Fluid Sunscreen SPF 100+ Сонцезахисний крем-флюїд АК з тотальним захистом SPF 100+",
+              "description": "Флюїд АК із максимально широким спектром захисту 100+ (UVA, UVB, IR, VIS) рекомендується для нетолер.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-34.jpg",
+              "title": "Cantabria Labs Heliocare 360 ​​Mineral Tolerance Fluid SPF 50 Сонцезахисний мінеральний крем-флюїд з SPF 50",
+              "description": "Фотоімунопротектор з високим ступенем захисту та з ексклюзивною 100% мінеральною формулою, спеціальн.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-35.jpg",
+              "title": "Cantabria labs Heliocare 360 ​​Pediatrics Transp Spray 200ml",
+              "description": "Прозорий фотопротектор спрей для дітей з легким нанесенням. Ефективний навіть на вологій шкірі завдя.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-36.jpg",
+              "title": "Cantabria Labs Heliocare 360 ​​Water Gel SPF 50+ Сонцезахисний зволожуючий гель із SPF 50+",
+              "description": "360º фотоімунозахист та тривале зволоження. Показання : суха, зневоднена шкіра, пов"
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-37.jpg",
+              "title": "Cantabria Labs HELIOCARE 360º Pigment Solution Fluid SPF 50+ Фотозахисний флюїд для попередження та корекції сонячної гіперпігментації та вирівнювання тону шкіри",
+              "description": "HELIOCARE 360º Pigment Solution Fluid SPF 50+ Надлегкий фотозахисний флюїд для запобігання .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-38.jpg",
+              "title": "Cantabria Labs Heliocare Ultra Cream SPF 50+ Сонцезахисний крем SPF 50+ для нормальної та жирної шкіри",
+              "description": "Дуже високий рівень фотозахисту для щоденного використання. Формула: легка текстура, легко поглин.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-39.jpg",
+              "title": "Cantabria Labs Iraltone AGA 60 caps проти випадіння волосся",
+              "description": "Харчова добавкаIraltone AGA 60 caps Raltone AGA розроблена для використання чоловіками та.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-40.jpg",
+              "title": "Cantabria Labs Iraltone Fortifying Shampoo Шампунь проти випадіння волосся",
+              "description": "Шампунь від випадіння та для пошкодженого волосся Стимулює та зміцнює волосяні фолікули, збільш.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-41.jpg",
+              "title": "Cantabria Labs Iraltone Locion Anticaida Лосьйон проти випадіння волосся",
+              "description": "Лосьйон проти випадіння волосся Ультралегкий лосьйон потрійної дії, який посилює ріст та зменшу.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-42.jpg",
+              "title": "Cantabria Labs Iraltone Sebum-normalizing Shampoo Шампунь для жирної шкіри голови",
+              "description": "Шампунь для жирної шкіри голови Шампунь з мультиактивною формулою, що включає ексклюзивні актив.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-43.jpg",
+              "title": "Cantabria Labs Neoretin Dc Transition Cream",
+              "description": "Омолоджувальний крем-транзит з ретинолом для всіх типів шкіри, у тому числі для чутливої Ульт.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-44.jpg",
+              "title": "Cantabria Labs Neoretin Gelcream Spf 50 Освітлювальний гель-крем - емульсія",
+              "description": "Освітлювальний гель-крем - емульсія spf 50 , що швидко вбирається, з потужним комплексом активних ін.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-45.jpg",
+              "title": "Cantabria Labs Neoretin Lightening Peel Пілінг для всіх типів шкіри",
+              "description": "Пілінг для всіх типів шкіри Сприяє інтенсивній ексфоліації та освітленню шкіри. Рекомендується як са.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-46.jpg",
+              "title": "Cantabria Labs Neoretin Serum Booster Fluid Сироватка-флюїд, що освітлює",
+              "description": "Сироватка-флюїд, що освітлюєNeoretin Serum Booster Fluid Швидко вбирається концентрований ф.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-47.jpg",
+              "title": "ENDOCARE aquafoam gentle cleansing wash - Очищуюча пінка для всіх типів шкіри, в тому числі для чутливої Cantabria Labs",
+              "description": "Ніжна, повітряна пінка призначена для щоденного очищення шкіри обличчя, що підходить для чутливої ​​.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-48.jpg",
+              "title": "Endocare Hydractive Micellar Solution",
+              "description": "Гідроактивний міцелярний розчин із зволожуючою дією Очищувальний засіб 2х1 (ідеальне очищення + т.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-49.jpg",
+              "title": "Heliocare 360 Сонцезахисна емульсія для шкіри схильної до почервонінь та куперозу spf 50/ HELIO 360 MD A-R",
+              "description": "Сонцезахисна емульсія для шкіри схильної до почервонінь та куперозу spf 50/ HELIO 360 MD A-R .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-50.jpg",
+              "title": "Heliocare Ultra Cream SPF 50+ Сонцезахисний крем SPF 50+ для нормальної та сухої шкіри",
+              "description": "Сонцезахисний крем SPF 50+ розроблений спеціально для захисту сухої та нормальної шкіри. Крем із .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-51.jpg",
+              "title": "IRALTONE FORTE Capsules для лікування ослабленого волосся та нігтів",
+              "description": "Капсули для лікування ослабленого волосся та нігтів Харчова добавка з комбінацією активних інгр.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-52.jpg",
+              "title": "Iraltone Shampoo DS Шампунь проти лупи та себореї",
+              "description": "Шампунь проти лупи та себореї Iralton Shampoo DS Потужна та ефективна формула шампуню заспокоює.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-53.jpg",
+              "title": "NEORETIN Discrom Control K-Eye Contour Щоденний, інтенсивний крем-контур для орбітальної зони від темних кіл.",
+              "description": "Щоденний, інтенсивний крем-контур для орбітальної зони від темних кіл Формула з оксидом вітаміну .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-54.jpg",
+              "title": "NEORETIN Discrom Control Ultra Emulsion Депігментуюча емульсія",
+              "description": "NEORETIN Discrom Control Ultra Emulsion Інтенсивна депігментуюча емульсія - новинка від ісп.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-55.jpg",
+              "title": "Ампули що регенерують та відновлюють шкіру, особливо рекомендуються для пост-процедурного догляду. ENDOCARE ESSENTIAL",
+              "description": "Інтенсивна сироватка з високою концентрацією технології факторів росту SCA® має регенеруючу, заж.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-56.jpg",
+              "title": "Дитячий мінеральний сонцезахисний гель-крем SPF 50+ Cantabria Labs HeliocareSPF 50+",
+              "description": "Фотоімунозахист 360° зі 100% мінеральних фільтрів, спеціально розроблених для дітей та немовлят..."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-57.jpg",
+              "title": "Дитячий сонцезахисний лосьйон SPF 50 Cantabria Labs Heliocare SPF 50",
+              "description": "Фотоімунозахист 360° для чутливої ​​дитячої шкіри. повний спектр фільтрів (UVA, UVB SPF 50.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-58.jpg",
+              "title": "Дитячий сонцезахисний спрей для атопічної шкіри Cantabria Labs HeliocareSpray SPF 50",
+              "description": "Легкий фотоімунозахист 360° для чутливої ​​та атопічної дитячої шкіри. Повний спектр фільт.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-59.jpg",
+              "title": "Дуже високий фотоімунозахист з ексклюзивною 100% мінеральною формулою HELIOCARE 360º Mineral SPF 50+Cantabria Labs",
+              "description": "Унікальна комбінація передових мінеральних фільтрів і ексклюзивних інгредієнтів забезпечує широкий с.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-60.jpg",
+              "title": "Живильний ліфтинговий крем ENDOCARE TENSAGE nourishing cream Cantabria Labs",
+              "description": "Насичений живильний крем легкої текстури з ліфтинговою і відновлювальною дією. Відновлює тонус і.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-61.jpg",
+              "title": "Капсули D Plus HELIOCARE 360º Cantabria Labs",
+              "description": "Капсули з високим вмістом Fernblock®+ , який підвищує стійкість шкіри до сонця з першого прийому.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-62.jpg",
+              "title": "Капсули Pure White Radiance HELIOCARE Advanced Cantabria Labs",
+              "description": "Освітлення шкіри, вирівнювання тону, проти старіння. Капсули з комбінацією натуральних активних і.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-63.jpg",
+              "title": "Капсули з високим вмістом Fernblock® Cantabria Labs HELIOCARE Ultra D",
+              "description": "HELIOCARE Ultra Capsules Ultra D Капсули з високим вмістом Fernblock®, які підвищують стійкіс.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-64.jpg",
+              "title": "Капсули Комплексний захист «Антиоксидант» Cantabria Labs Heliocare Ultra Capsules Oral",
+              "description": "Капсули для внутрішнього прийому спеціально створені для комплексного ультра захисту шкіри від УФ-ви.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-65.jpg",
+              "title": "Лікувальний гель проти себореї /IRALTONE SD GEL",
+              "description": "Лікувальний гель для обличчя/шкіри голови з себорегулюючим ефектом, зменшує лущення, почервоніння та.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-66.jpg",
+              "title": "Сонцезахисна компактна мінеральна крем-пудраSPF 50 Cantabria Labs Heliocare (тон натуральний)",
+              "description": "Фотоімунопротектор для щоденного застосування з високим ступенем захисту. Містить унікальний біологі.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-67.jpg",
+              "title": "Сонцезахисна компактна мінеральна крем-пудраSPF 50 Cantabria Labs Heliocare (тон світлий)",
+              "description": "Фотоімунопротектор для щоденного застосування з високим ступенем захисту. Містить унікальний біологі.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Cantabria Labs/Cantabria Labs-68.jpg",
+              "title": "Тональний сонцезахисний гель-крем для нормальної та сухої шкіри. HELIOCARE Color Gelcream SPF 50(brown)",
+              "description": "Це надійний захист від ультрафіолетових променів, базовий догляд та вирівнювання тону шкіри. Засіб в.."
+            }
+          ]
+    },
+    {
+        "title": "Косметика від Caromed",
+        "logo": "../../../../assets/images/cosmetics/company-logo/Caromed-Logo.png",
+        "cosmetics": [
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/CAROMED/CAROMED-1.jpg",
+              "title": "Face3 One пілінг - біоревіталізант з пептидами від Caromed",
+              "description": "FACE ONEBIO-REVITALIZING PEELING 3Делікатний пілінг та потужна біоревіталізаціяFACE3 .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/CAROMED/CAROMED-2.jpg",
+              "title": "Сироватка для стимуляції росту вій від Caromed Italia",
+              "description": "Сироватка для стимуляції росту вій від Caromed ItaliaСироватка зміцнює вії, запобігає пошкод.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/CAROMED/CAROMED-3.jpg",
+              "title": "Сироватка-блиск для збільшення об‘єму губ від Caromed Italia",
+              "description": "Caromed You Want My Lips Enhancing Serum TransparentСироваткаблиск для збільшенн.."
+            }
+          ] 
+    },
+    {
+        "title": "Косметика від Dr. Kadir",
+        "logo": "../../../../assets/images/cosmetics/company-logo/Caromed-Logo.png",
+        "cosmetics": [
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-1.jpg",
+              "title": "Dr. Kadir Multivitamin Cream for very dry skinМультивітамінний крем для дуже сухої шкіри",
+              "description": "Суперзволожуючий крем з мультивітамінним комплексом та мінералами. Інтенсивно зволожує шкіру, заповн.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-2.jpg",
+              "title": "Dr. Kadir Silk Liquid Make Up Тональна основа (тон 2)",
+              "description": "Тональна основа Dr. Kadir Silk Liquid Make Up є додатковою ноткою у створенні привабливого образу..."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-3.jpg",
+              "title": "Dr. Kadir Alpha Hydroxy 10 Peel* 30 мл",
+              "description": "Пілінг особливо рекомендований людям із сухою та нормальною шкірою, які бажають відновити її при.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-4.jpg",
+              "title": "Dr. Kadir Anti Aging Nourishing Cream for Dry Skin 50 ml Поживний крем для сухої шкіри",
+              "description": "Ізраїльська компанія Dr. Kadir більше ніж півстоліття радує представниць прекрасної половини людства.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-5.jpg",
+              "title": "Dr. Kadir Apple Lift Mask Омолоджуюча маска для нормальної та сухої шкіри",
+              "description": "Омолоджуюча маска для обличчя від ізраїльського бренду Dr. Kadir із серії «Яблучний ліфтинг&amp;ra.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-6.jpg",
+              "title": "Dr. Kadir Apple Lift Serum Омолоджувальна сироватка",
+              "description": "Антивікова сироватка – це косметичний засіб на водній або олійній основі з дуже високою концен.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-7.jpg",
+              "title": "Dr. Kadir Aqua Cactus Serum - Сироватка для комбінованої шкіри обличчя з екстрактом кактуса Опунція",
+              "description": "Дія:ніжна сироватка знімає подразнення, заспокоює шкіру, регулює виділення себуму, збільшує мі.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-8.jpg",
+              "title": "Dr. Kadir Aqua-Cactus Moisturizer Cream Зволожуючий крем Аква-Кактус",
+              "description": "Дія: Зволожуюча емульсія не містить олій та жирних компонентів, забезпечує повноцінне зволожен.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-9.jpg",
+              "title": "Dr. Kadir Aqua-Cactus Маsk Зволожуюча маска Аква-Кактус",
+              "description": "М'яка, приємна на дотик маска, прибирає надлишок шкірного сала на проблемних ділянках Т-зони обл.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-10.jpg",
+              "title": "Dr. Kadir B3 Drying Lotion and Make Up for Problematic Skin Тонуюча емульсія для проблемної шкіри",
+              "description": "B3 Drying Lotion + Make Up - це спеціальна тонуюча емульсія, яка є ідеальним поєднанням терапевтично.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-11.jpg",
+              "title": "Dr. Kadir B3 Mask For Oily and Problematic Skin Маска для жирної та проблемної шкіри",
+              "description": "Маска для жирної і проблемної шкіри B3 - це дивовижна знахідка для повноцінного догляду за жирною та.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-12.jpg",
+              "title": "Dr. Kadir B3 Panthenol Cream for Problematic Skin Крем для проблемної шкіри",
+              "description": "Якщо ваша шкіра схильна до роздратування, від якого надовго залишаються не дуже привабливі сліди, то.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-13.jpg",
+              "title": "Dr. Kadir B3 Treatment GelГель для проблемної шкіри обличчя",
+              "description": "Гель B3 Treatment Gel For Problematic Skin від популярної торгової марки Dr. Kadir створений для про.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-14.jpg",
+              "title": "Dr. Kadir B3 Treatment Stick for Problematic Skin Олівець для проблемної шкіри обличчя",
+              "description": "Олівець для проблемної шкіри обличчя від ізраїльського бренду Dr. Kadir позиціонується як засіб з еф.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-15.jpg",
+              "title": "Dr. Kadir B3 Treatment Tonic для проблемної шкіри 1000 ml",
+              "description": "Неправильне функціонування сальних залоз призводить до виділення надлишкової кількості шкірного сала.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-16.jpg",
+              "title": "Dr. Kadir B3 Treatment Tonic для проблемної шкіри 250 ml",
+              "description": "Неправильне функціонування сальних залоз призводить до виділення надлишкової кількості шкірного сала.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-17.jpg",
+              "title": "Dr. Kadir Biome - Calmine Black Mask Чорна маска",
+              "description": "Шовковиста, ніжна, незастигаюча маска глибоко зволожує та живить шкіру, заспокоює почервоніння та по.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-18.jpg",
+              "title": "Dr. Kadir Biome - Calmine Gel Гель Біом - Каламін для жирної та проблемної шкіри",
+              "description": "Різні порушення стану шкіри пов'язані зі значним відхиленням у природному складі мікрофлори. Так.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-19.jpg",
+              "title": "Dr. Kadir Biome - Calmine Mild Cleansing Gel М'який гель, що очищає 1000 ml",
+              "description": "Продукти Біом-Калмін містять ефективну концентрацію пробіотичних та поліактивних інгредієнтів із про.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-20.jpg",
+              "title": "Dr. Kadir Biome - Calmine Mild Cleansing Gel М'який гель, що очищає 250 ml",
+              "description": "Продукти Біом-Калмін містять ефективну концентрацію пробіотичних та поліактивних інгредієнтів із про.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-21.jpg",
+              "title": "Dr. Kadir Biome - Calmine Moisturizing Cream Зволожуючий крем",
+              "description": "Противіковий крем з пробіотиком має anti-aging ефект, розгладжує поверхневі зморшки, стимулює мікроц.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-22.jpg",
+              "title": "Dr. Kadir Biome - Calmine Nourishing Cream 250 ml Поживний крем",
+              "description": "Поживний крем для сухої шкіри Dr. Kadir Biome-Calmine Nourishing Cream допоможе чарівній дівчині впо.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-23.jpg",
+              "title": "Dr. Kadir Biome - Calmine Nourishing Cream 50 ml Поживний крем",
+              "description": "Поживний крем для сухої шкіри Dr. Kadir Biome-Calmine Nourishing Cream допоможе чарівній дівчині впо.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-24.jpg",
+              "title": "Dr. Kadir Biome-Calmine Serum Сироватка для обличчя",
+              "description": "Інтенсивна сироватка Біо Калмін для омолодження шкіри обличчя. Має інтенсивну омолоджуючу дію на шкі.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-25.jpg",
+              "title": "Dr. Kadir Calendula Hand Cream Крем для рук",
+              "description": "Кожна справжня леді знає, що її руки — це її візитна картка, тому доглядає їх дуже ретельно. К.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-26.jpg",
+              "title": "Dr. Kadir Calendula Massage Cream Масажний крем \"Календула\"",
+              "description": "Calendula Massage Cream - крем для масажу з чудовою ніжною текстурою, що глибоко зволожує, ідеально .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-27.jpg",
+              "title": "Dr. Kadir Calendula-Wheat Germ Massage Oil Масажна олія Зародки пшениці - Календула",
+              "description": "Calendula-Wheat Germ Massage Oil - антисептична, антивірусна, протизапальна, антигрибкова, освітлююч.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-28.jpg",
+              "title": "Dr. Kadir Carisma After Shave Balm Бальзам після гоління",
+              "description": "Для особливо чутливої ​​чоловічої шкіри, схильної до частих подразнень, висипань, лущення та травмув.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-29.jpg",
+              "title": "Dr. Kadir Carisma Deodorant Roll On Кульковий дезодорант для тіла",
+              "description": "Відчуття чистоти та свіжості саме те, що надає нам впевненості у бездоганності нашого зовнішнього ви.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-30.jpg",
+              "title": "Dr. Kadir Cleaners and Tonic Astringent-Hamamelis Tonic для Oily Skin 250 ml - Тонік з гамамелісом для жирної шкіри",
+              "description": "Для ефективного очищення шкіри від накопичених за день забруднень, залишків косметики, надлишків шкі.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-31.jpg",
+              "title": "Dr. Kadir Cleaners and Tonic Calendula Gel-Soap Гель для очищення з календулою",
+              "description": "Calendula Gel-Soap – дуже м'яке рідке мило для очищення шкіри зі свіжим приємним ароматом..."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-32.jpg",
+              "title": "Dr. Kadir Cleaners and Tonic Green Tea Soapless Soap Гель для очищення шкіри обличчя та шиї Зелений чай",
+              "description": "Green Tea Soapless Soap – дуже ніжне мило для очищення шкіри обличчя та шиї. Гель не містить ш.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-33.jpg",
+              "title": "Dr. Kadir Cleaners and Tonic Hydrophylic Oil Гідрофільна очищувальна олія",
+              "description": "Очищення – базовий етап догляду за шкірою. Якісне очищення передбачає видалення макіяжу, бруду.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-34.jpg",
+              "title": "Dr. Kadir Cleaners and Tonic Rose 250 ml - Тонік для нормальної шкіри з трояндою",
+              "description": "Протягом дня на нашій шкірі накопичується величезна кількість забруднень, крім того, природні процес.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-35.jpg",
+              "title": "Dr. Kadir Cleaners and Tonic Sebo-Relief Gentle Cleansing Foam Очищаюча пінка Себорельєф",
+              "description": "Sebo-relief gentle cleansing foam — пінка, що очищає, на основі спеціальної суміші ніжних піно.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-36.jpg",
+              "title": "Dr. Kadir Cleaners and Tonic Two Phase Make Up Remover Двофазна рідина для демакіяжу",
+              "description": "Two Phase Make Up Remover – двофазна рідина для демакіяжу очей ефективно видаляє навіть водост.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-37.jpg",
+              "title": "Dr. Kadir Cleaners і Tonic All Skin Types Cleansing Milk Молочко, що очищає, для шкіри",
+              "description": "Очищення шкіри – найважливіша процедура косметичного догляду за обличчям. Молочко, що очищає, .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-38.jpg",
+              "title": "Dr. Kadir Cleaners та Tonic Alcohol Free Cleansing Tonic 250 ml - Тонік, що очищає, без спирту",
+              "description": "Наша шкіра потребує якісного та регулярного очищення. Щоб не пошкодити і не пересушити її звичайним .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-39.jpg",
+              "title": "Dr. Kadir Cleaners та Tonic Camphor Tonic Камфорний тонік для жирної шкіри",
+              "description": "Камфора - кристалічна речовина, що виділяється з ефірної олії, що отримується з камфорного дерева. Т.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-40.jpg",
+              "title": "Dr. Kadir Concealer Мasking Pencil Маскуючий олівець",
+              "description": "Коригуючий (або маскуючий) олівець ідеально затушовує прищики, цятки та інші дрібні недоліки шкіри, .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-41.jpg",
+              "title": "Dr. Kadir Creams and Moisturizers Eye Neck Cream Крем для області навколо очей та шиї",
+              "description": "Шкіра навколо очей - найчутливіша і найтонша область на обличчі. Через те, що під шкірою повік практ.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-42.jpg",
+              "title": "Dr. Kadir Creams and Moisturizers Wheat Germ Oil Moisturizer Зволожуючий крем з олією зародків пшениці для сухої шкіри",
+              "description": "Якщо ви бажаєте, щоб ваша шкіра була гладкою, пружною, еластичною і радувала красивим рівним кольоро.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-43.jpg",
+              "title": "Dr. Kadir Creative Eye Cream for Dry Skin Крем для шкіри навколо очей",
+              "description": "Постійна втома, безсонні ночі та переживання не проходять для організму безслідно і насамперед прояв.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-44.jpg",
+              "title": "Dr. Kadir Creative Moisturizing Cream for Normal And Dry Skin Зволожуючий крем для сухої шкіри",
+              "description": "Суха шкіра має низьку здатність утримувати вологу, результатом чого виступають стягнутість, надчутли.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-45.jpg",
+              "title": "Dr. Kadir Creative Nourishing Cream for Dry Skin 250 ml Поживний крем для сухої шкіри обличчя",
+              "description": "Nourishing Cream For Dry Skin:крем має м'яку та шовковисту текстуру, добре ковзає;се.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-46.jpg",
+              "title": "Dr. Kadir Creative Nourishing Cream for Dry Skin 50 ml Поживний крем для сухої шкіри обличчя",
+              "description": "Nourishing Cream For Dry Skin:крем має м'яку та шовковисту текстуру, добре ковзає;се.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-47.jpg",
+              "title": "Dr. Kadir Creative Serum Сироватка для обличчя омолоджуюча",
+              "description": "Омолоджувальна сироватка для обличчя від популярного ізраїльського бренду Dr. Kadir – чудовий .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-48.jpg",
+              "title": "Dr. Kadir Creative Silver Mask Срібна маска",
+              "description": "Якщо ви бажаєте, щоб ваша шкіра сяяла здоров'ям, виглядала молодо та підтягнуто – необхідн.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-49.jpg",
+              "title": "Dr. Kadir Deep Restore Active Day Cream Активний денний крем",
+              "description": "Ізраїльський косметичний бренд Dr. Kadir з незмінною турботою про красу прекрасних дам розробив унік.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-50.jpg",
+              "title": "Dr. Kadir Deep Restore Active Eye Serum Сироватка для шкіри навколо очей",
+              "description": "Формула сироватки містить унікальний екстракт кіноа, який зменшує сліди втоми під очима та захищає к.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-51.jpg",
+              "title": "Dr. Kadir Deep Restore Active Nourishing Treatment Cream 250 ml Активний нічний лікувальний крем",
+              "description": "Людська шкіра з роками має властивість втрачати свою красу та молодість. Це відбувається у зв'яз.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-52.jpg",
+              "title": "Dr. Kadir Deep Restore Active Nourishing Treatment Cream 50 ml Активний нічний лікувальний крем",
+              "description": "Людська шкіра з роками має властивість втрачати свою красу та молодість. Це відбувається у зв'яз.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-53.jpg",
+              "title": "Dr. Kadir Deep Restore Day Cream For The Oily And Problematic Skin Денний крем для жирної і проблемної шкіри",
+              "description": "Щоб забезпечити надійний захист шкіри від сонячного проміння, фахівці ізраїльського виробника космет.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-54.jpg",
+              "title": "Dr. Kadir Deep Restore Lactic Mask Молочна маска для обличчя",
+              "description": "Deep Restore Lactic Mask:м'яка кремоподібна маска має зволожуючий, пом'якшувальний та .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-55.jpg",
+              "title": "Dr. Kadir Deep Restore Omega-3 Nourishing Serum Сироватка для глибокого відновлення",
+              "description": "Deep Restore Serum Omega-3має зволожуючий та пом'якшувальний вплив на шкіру, а також сприя.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-56.jpg",
+              "title": "Dr. Kadir Deodorant Roll On Aluminum Free Кульковий дезодорант без алюмінію",
+              "description": "Кульковий дезодорант без алюмінію - засіб для чутливої ​​шкіри, представлений ізраїльським брендом D.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-57.jpg",
+              "title": "Dr. Kadir Exclusive Restore Glycolic AHA Gel Soap Гліколеве мило гель з альфа-гідроксильною кислотою",
+              "description": "Мило на основі особливо м'якого складу очисних засобів. Продукт містить 5% альфа-гідроксильної к.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-58.jpg",
+              "title": "Dr. Kadir Exclusive Restore Hydroxy Retinol Serum Гідроксі ретинол серум",
+              "description": "Процес диференціювання клітин епідермісу починається після утворення клітин у базальному шарі. У вер.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-59.jpg",
+              "title": "Dr. Kadir Exclusive Restore Skin Revitalizing Resveratrol Drops Краплі Ресвератрол для відновлення шкіри",
+              "description": "Невеликі кількості ресвератролу містяться в червоному винограді, червоному вині, арахісі, чорниці та.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-60.jpg",
+              "title": "Dr. Kadir Exclusive Restore Skin-Lightening Serum Сироватка, що освітлює шкіру",
+              "description": "Продукт містить особливо ефективне поєднання освітлювальних засобів активних інгредієнтів: Альфа арб.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-61.jpg",
+              "title": "Dr. Kadir Eye Neck and Decolte Cream Крем для області навколо очей та шиї",
+              "description": "Шкіра в області шиї та навколо очей відрізняється тонкістю та чутливістю. Саме ці зони перші приймаю.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-62.jpg",
+              "title": "Dr. Kadir Face Mask Aloe Vera-Hamamelis Маска для жирної шкіри",
+              "description": "Жирна шкіра обличчя є причиною незручностей. Власниці такого типу шкіри, як правило, страждають від .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-63.jpg",
+              "title": "Dr. Kadir Face Masks Bіo-Sulfur Mask для Problematic Skin Маска для проблемної шкіри",
+              "description": "Проблемна шкіра обличчя потребує особливо ретельного догляду з використанням спеціальної косметичної.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-64.jpg",
+              "title": "Dr. Kadir Face Masks Mineral Alginate Peel Off Mask Альгінатна Маска з мінералами",
+              "description": "Альгінатна маска з мінераламиЦе унікальний склад, який поєднує властивості глини і особливості а.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-65.jpg",
+              "title": "Dr. Kadir Face Masks Wheat Germ Oil and Rose Hip Maskдля сухої шкіри",
+              "description": "Маска Face Masks для сухої шкіри обличчя являє собою високоефективний продукт від ізраїльських експе.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-66.jpg",
+              "title": "Dr. Kadir Firming Body Lotion Зміцнюючий лосьйон для тіла",
+              "description": "Поява «апельсинової кірки» на стегнах та сідницях — чим не є причиною поганого нас.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-67.jpg",
+              "title": "Dr. Kadir Gels and Serum Cactus Calming Gel Заспокійливий гель з кактусом",
+              "description": "Cactus calming gel зволожуючий та заспокійливий гель з кактусом використовується після пілінгу, післ.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-68.jpg",
+              "title": "Dr. Kadir Gels and Serum Calendula Softening Gel Пом'якшуючий гель з календулою",
+              "description": "Calendula Softening Gel - спеціальний пом'якшувальний гель - календула, що наноситься спочатку к.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-69.jpg",
+              "title": "Dr. Kadir Gels and Serum Warming Softening Gel Lavender Гель із маслом лаванди для розігріву",
+              "description": "Warming Softening Gel Lavender з лавандовою олією для м'якого розігріву. Розігріваюча дія гелю з.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-70.jpg",
+              "title": "Dr. Kadir Goji Berry Skin Revitilizing Serum - anti-age сироватка",
+              "description": "Інноваційна anti-age сироватка забезпечує швидкий ефект ліфтингу, розгладжує дрібні зморшки, зміцнює.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-71.jpg",
+              "title": "Dr. Kadir Gold Matrix Anti Aging Serum Сироватка антивікова",
+              "description": "З роками людська шкіра поступово втрачає свої найкращі якості та починає в'янути. Для того, щоб .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-72.jpg",
+              "title": "Dr. Kadir Gold Matrix Mask Маска для зволоження та освітлення",
+              "description": "Щоб забезпечити повноцінний догляд і надовго зберегти молодість шкіри, необхідно використовувати не .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-73.jpg",
+              "title": "Dr. Kadir Gold Matrix Moisturizing Cream for Normal and Dry Skin 250 ml Зволожуючий крем для нормальної та сухої шкіри",
+              "description": "Легкий зволожуючий крем із шовковистою текстурою, чудово підходить для завершення процедур. Крем доб.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-74.jpg",
+              "title": "Dr. Kadir Gold Matrix Moisturizing Cream for Normal and Dry Skin 50 ml Зволожуючий крем для нормальної та сухої шкіри",
+              "description": "Легкий зволожуючий крем із шовковистою текстурою, чудово підходить для завершення процедур. Крем доб.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-75.jpg",
+              "title": "Dr. Kadir Gold Matrix Nourishing Cream для Normal and Dry Skin Поживний крем для нормальної та сухої шкіри",
+              "description": "Здійснює безпосередній вплив на оновлення колагену в дермісі завдяки активним інгредієнтам. Продукт .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-76.jpg",
+              "title": "Dr. Kadir Hemp Essential Calamina Calming Mask Заспокійлива маска Каламіна",
+              "description": "Маска призначена для того, щоб забезпечити шкірі сильний заспокійливий ефект та зміцнити її бар'.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-77.jpg",
+              "title": "Dr. Kadir Hemp Essential Cream-Mask For Dry Skin Маска-крем з екстрактом Канабіс для сухої шкіри",
+              "description": "Маска має надзвичайно насичену кремову текстуру. Надає шкірі особливої ​​м'якості, надає інтенси.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-78.jpg",
+              "title": "Dr. Kadir Hemp Essential Moisturizing Cream Зволожуючий крем на основі конопляної олії",
+              "description": "Крем з легкою текстурою містить Акваксил (Aquaxyl) – засіб, що належить до нового покоління зв.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-79.jpg",
+              "title": "Dr. Kadir Hemp oil serum for dry skinМасло-сироватка з екстрактом Канабіс для сухої шкіри",
+              "description": "Ця сироватка складається із суміші масел. Вонамістить 10% олії насіння коноплі холодного віджи.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-80.jpg",
+              "title": "Dr. Kadir Hyalu-Ron Low Molecular Active Day Cream Зволожуючий крем із гіалуроновою кислотою",
+              "description": "Для глибокого зволоження шкіри професійна ізраїльська марка Dr.Kadir розробила низькомолекулярний де.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-81.jpg",
+              "title": "Dr. Kadir Hyalu-Ron Low Molecular Hyaluronic Eye Cream Низькомолекулярний активний гіалуроновий крем для очей",
+              "description": "Шкіра навколо очей особливо тонка та чутлива, тому для догляду за нею та збереження молодості у зоні.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-82.jpg",
+              "title": "Dr. Kadir Hyalu-Ron Low Molecular Hyaluronic Nourishing Cream Низькомолекулярний гіалуроновий активний живильний крем",
+              "description": "Косметична продукція від ізраїльських професіоналів недарма користується все більшою популярністю се.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-83.jpg",
+              "title": "Dr. Kadir HyaluRon Low Molecular Hyaluronic Concentrated Serum Зволожуюча сироватка з гіалуроновою кислотою",
+              "description": "Сироватка створена на основі низькомолекулярної гіалуронової кислоти, дарує шкірі миттєве зволоження.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-84.jpg",
+              "title": "Dr. Kadir Hydro - Calmine Gel Гель для куперозної шкіри",
+              "description": "Гель для куперозної шкіри Hydro-Calmine Gel знімає подразнення та почервоніння, зміцнює капіляри, за.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-85.jpg",
+              "title": "Dr. Kadir Hydro-Calmine Day Cream Крем для куперозної шкіри",
+              "description": "Чутлива тендітна шкіра схильна до розширення капілярних судин і почервоніння. Цей унікальний засіб н.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-86.jpg",
+              "title": "Dr. Kadir Hydrolactan Moisturizer for Dry Skin Гідролактан крем для сухої шкіри",
+              "description": "Гідролактан - зволожуючий крем для сухої шкіри, який має яскраво виражені протизапальні та заспокійл.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-87.jpg",
+              "title": "Dr. Kadir Hydrolactan Moisturizer for Normal and Oily Skin Зволожуючий крем для нормальної та жирної шкіри",
+              "description": "І нормальна, і жирна шкіра потребує ретельного зволоження, адже саме вода робить її ніжною та шовков.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-88.jpg",
+              "title": "Dr. Kadir Hygienic Soap Гель для інтимної гігієни",
+              "description": "Догляд за собою — це, перш за все, турбота про власне здоров'я, саме з цієї причини в арсе.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-89.jpg",
+              "title": "Dr. Kadir Light E+C Gentle Cleansing Foam Ніжна пінка, що очищає.",
+              "description": "Фахівці-косметологи ізраїльської компанії Dr. Kadir розробляють усе нові і нові засоби, здатні борот.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-90.jpg",
+              "title": "Dr. Kadir Light E+C Moisturizer Cream Зволожуючий крем з вітамінами Е+С",
+              "description": "Ви хочете, щоб ваша шкіра була відмінно зволожена, але при цьому терпіти не можете креми з щільною т.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-91.jpg",
+              "title": "Dr. Kadir Light E+C Serum Сироватка з вітамінами Е+С",
+              "description": "Ви хочете, щоб шкіра вашого обличчя перетворилася за лічені хвилини і стала більш зволоженою, гладко.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-92.jpg",
+              "title": "Dr. Kadir Loose Powder Прозора розсипчаста пудра",
+              "description": "Прозора розсипчаста пудра Dr. Kadir Loose Powder є сенсаційною продукцією високої якості, яка відмін.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-93.jpg",
+              "title": "Dr. Kadir Massage Gel Lavender Лавандовий гель для масажу",
+              "description": "Massage Gel Lavender - спеціальний гель для масажу, багатий на зволожуючі речовини, які забезпечують.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-94.jpg",
+              "title": "Dr. Kadir Moisturizer For Dry Skin (SPF 22) New Collagen Зволожуючий крем для сухої шкіри",
+              "description": "Ізраїльські фахівці радують своїх споживачок якісними косметичними продуктами вже понад півстоліття .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-95.jpg",
+              "title": "Dr. Kadir New Collagen Anti Aging Serum Сироватка з мікроколагеном",
+              "description": "Кожній жінці хочеться якомога на більш довгий термін зберегти свою молодість, однак час впливає: з&amp;#.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-96.jpg",
+              "title": "Dr. Kadir New Collagen Eye Contour Cream Крем для шкіри навколо очей",
+              "description": "Наша шкіра щодня піддається руйнівному впливу зовнішніх факторів і поступово природні її запаси кори.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-97.jpg",
+              "title": "Dr. Kadir No.1 Peptide Moisturizing Emulsion-Gel зволожуюча емульсія-гель",
+              "description": "Peptide No 1 – серія косметичних засобів, яка створена на основі передових біоміметичних.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-98.jpg",
+              "title": "Dr. Kadir No.1 Peptide Nourishing Bronze Mask 50 ml Живильна бронзова маска",
+              "description": "Peptide No 1 – серія косметичних засобів, яка створена на основі передових біоміметичних.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-99.jpg",
+              "title": "Dr. Kadir No.1 Peptide Nourishing cream-gel 250 ml Живильний крем-гель",
+              "description": "Peptide No 1 – серія косметичних засобів, яка створена на основі передових біоміметичних.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-100.jpg",
+              "title": "Dr. Kadir No.1 Peptide Nourishing cream-gel 50 ml Живильний крем-гель",
+              "description": "Peptide No 1 – серія косметичних засобів, яка створена на основі передових біоміметичних.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-101.jpg",
+              "title": "Dr. Kadir Phytosterol 40+ Anti Aging Eye Cream Крем для сухої шкіри навколо очей Фітостерол 40+",
+              "description": "Ізраїльський косметичний бренд Dr. Kadir представляє професійний засіб для шкіри навколо очей, схиль.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-102.jpg",
+              "title": "Dr. Kadir Phytosterol 40+ Anti Aging Serum Сироватка регенеруюча для сухої шкіри",
+              "description": "Ізраїльські фахівці протягом багатьох років вивчали властивості різних рослин та створили дивовижний.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-103.jpg",
+              "title": "Dr. Kadir Phytosterol 40+ Moisturizing Cream for Dry Skin Зволожуючий крем для сухої шкіри",
+              "description": "Зріла шкіра вимагає особливо ретельного догляду, адже без належної турботи вікова шкіра починає втра.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-104.jpg",
+              "title": "Dr. Kadir Phytosterol 40+ Nourishing Cream for Dry Skin 250 ml Поживний крем для сухої шкіри",
+              "description": "Людська шкіра з часом втрачає свою еластичність і пружність, що не найкраще позначається на її зовні.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-105.jpg",
+              "title": "Dr. Kadir Phytosterol 40+ Nourishing Cream for Dry Skin 50 мл Поживний крем для сухої шкіри",
+              "description": "Людська шкіра з часом втрачає свою еластичність і пружність, що не найкраще позначається на її зовні.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-106.jpg",
+              "title": "Dr. Kadir Pomegranate Facial Gel Soap Гель для вмивання гранат з ефектом омолоджування",
+              "description": "ДіяГель для глибокого очищення шкіри. Екстракт граната має неперевершену антивікову дію, блок.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-107.jpg",
+              "title": "Dr. Kadir Powder Flicker Effect Пудра з ефектом мерехтіння",
+              "description": "Пудра не має будь-якого відтінку і тому підходить всім. Дозволяє протягом дня зберігати природний ма.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-108.jpg",
+              "title": "Dr. Kadir Professional Peeling Beutician Glycolic Peel Гліколевий пілінг",
+              "description": "Beutician Glycolic Peel — унікальна формула, що не містить води, з вільними активними альфа- т.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-109.jpg",
+              "title": "Dr. Kadir Professional Peeling Beutician Malic Peel Яблучний пілінг",
+              "description": "Beutician Malic Peel – пілінг розроблений на основі яблучної кислоти з додаванням саліцилової .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-110.jpg",
+              "title": "Dr. Kadir Professional Peeling Chamomile Scrub Скраб з екстрактом ромашки",
+              "description": "Chamomile Scrub — крем-скраб добре піниться, містить мікрогранули огруглої форми, завдяки яким.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-111.jpg",
+              "title": "Dr. Kadir Professional Peeling Cream Пілінг-крем для проблемної шкіри",
+              "description": "Peeling Cream - чудовий косметичний засіб для глибокого очищення шкіри обличчя, шиї та області декол.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-112.jpg",
+              "title": "Dr. Kadir Professional Peeling Dead Sea Scrub Скраб з мінералами Мертвого моря",
+              "description": "Dead Sea Scrub – скраб на основі мінералів Мертвого моря для тонкого очищення шкіри. Видаляє с.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-113.jpg",
+              "title": "Dr. Kadir Professional Peeling Hydroxy+C and Powder С Професійний гліколевий пілінг",
+              "description": "До складу входять: флакон із гелем 200 мл, баночка з пудрою 100 мл.Profess.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-114.jpg",
+              "title": "Dr. Kadir Professional Peeling Hydroxy+C Powder Порошок вітаміну С для пілінгу Гідрокси+С",
+              "description": "Порошок вітаміну С для пілінгу Dr. Kadir Professional Peeling Hydroxy+C Powder – якісний проду.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-115.jpg",
+              "title": "Dr. Kadir Rosemary-Calendula Foot Крем для ніг Розмарин-Календула",
+              "description": "Приділяти увагу догляду за шкірою стоп обов'язково потрібно. Без належного зволоження та живленн.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-116.jpg",
+              "title": "Dr. Kadir Seaweed Mask For Normal Skin Маска для нормальної шкіри",
+              "description": "Seaweed Mask For Normal Skin – ця маска, завдяки сильнодіючим морським речовинам, дозволяє дос.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-117.jpg",
+              "title": "Dr. Kadir Seaweed Mask для Normal Skin Маска для нормальної шкіри",
+              "description": "Морська флора - величезний ресурс, що містить все необхідне для краси нашої шкіри. Морські водорості.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-118.jpg",
+              "title": "Dr. Kadir Sebo-Relief Cream Крем для жирної шкіри",
+              "description": "Спеціальний крем, розроблений ізраїльськими фахівцями, допоможе вам позбутися такої проблеми, як себ.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-119.jpg",
+              "title": "Dr. Kadir Silk Liquid Make Up Тональна основа",
+              "description": "Тональна основа Dr. Kadir Silk Liquid Make Up є додатковою ноткою у створенні привабливого образу..."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-120.jpg",
+              "title": "Dr. Kadir Silk Liquid Make Up Тональна основа (тон 0)",
+              "description": "Тональна основа Dr. Kadir Silk Liquid Make Up є додатковою ноткою у створенні привабливого образу..."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-121.jpg",
+              "title": "Dr. Kadir Silk Liquid Make Up Тональна основа (тон 21)",
+              "description": "Тональна основа Dr. Kadir Silk Liquid Make Up є додатковою ноткою у створенні привабливого образу..."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-122.jpg",
+              "title": "Dr. Kadir Silk Liquid Make Up Тональна основа (тон 22)",
+              "description": "Тональна основа Dr. Kadir Silk Liquid Make Up є додатковою ноткою у створенні привабливого образу..."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-123.jpg",
+              "title": "Dr. Kadir Solar Protection CC Cream SPF 50+ Захисний крем з тоном",
+              "description": "Перебування на відкритому сонці є небезпечним для здоров'я шкіри. Тому для надійного захисту від.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-124.jpg",
+              "title": "Dr. Kadir Solar Zone Moisturizing Protective Cream SPF 30+ Зволожуючий захисний крем",
+              "description": "Захист від агресивного впливу ультрафіолетових променів – це обов'язкова умова правильного.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-125.jpg",
+              "title": "Dr. Kadir Solar Zone Moisturizing Protective Cream SPF 50+ Зволожуючий захисний крем",
+              "description": "Захист від агресивного впливу ультрафіолетових променів – це обов'язкова умова правильного.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-126.jpg",
+              "title": "Dr. Kadir Solar Zone Moisturizing Protective Spray SPF 30+ Зволожуючий захисний спрей",
+              "description": "Дуже важливо захищати шкіру від агресивного впливу ультрафіолетових променів. Оскільки засіб розробл.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-127.jpg",
+              "title": "Dr. Kadir Solar Zone Moisturizing Protective Spray SPF 50+ Зволожуючий сонцезахисний спрей SPF-50+",
+              "description": "Спрей на основі рідкого крему з легкою текстурою підходить для повсякденного використання. Забезпечу.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-128.jpg",
+              "title": "Dr. Kadir Solar Zone Moisturizing Protective ВР Сream SPF 30+ Сонцезахисний зволожуючий ВВ-крем з тоном SPF30+",
+              "description": "Зволожуючий захисний крем з тоном Solar Zone Protective BB Cream SPF 30 від професійної ізраїльської.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-129.jpg",
+              "title": "Dr. Kadir Solar Zone Protective Nourishing Lipstick SPF 50+ Сонцезахисна зволожуюча помада",
+              "description": "Захистіть свою шкіру губ від сильних морозів, палючого сонця та вітру завдяки помаді Solar Zone Prot.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-130.jpg",
+              "title": "Dr. Kadir Tropicare Facial Scrub Скраб для обличчя",
+              "description": "Процедура скрабування була відома жінкам ще далекої античності. Вони дбали про красу своєї шкіри, ви.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-131.jpg",
+              "title": "Dr. Kadir Tropicare Moisturizing Cream Зволожуючий крем для сухої та нормальної шкіри",
+              "description": "Зволожуючий крем для сухої та нормальної шкіри Dr. Kadir Tropicare Moisturizing Cream - це сенсаційн.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-132.jpg",
+              "title": "Dr. Kadir WWheat Germ Oil &amp; Avocado Nourishing Cream 250 ml Поживний крем з маслом зародків пшениці та авокадо",
+              "description": "Wheat Germ Oil &amp; Avocado Nourishing Cream - живильний крем з олією зародків пшениці та авокадо д.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-133.jpg",
+              "title": "Dr. Kadir WWheat Germ Oil &amp; Avocado Nourishing Cream 75 ml Поживний крем з маслом зародків пшениці та авокадо",
+              "description": "Wheat Germ Oil &amp; Avocado Nourishing Cream - живильний крем з олією зародків пшениці та авокадо д.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-134.jpg",
+              "title": "Dr. Kadir В3 Deep Action Soapless Soap for Problematic Skin Очищаючий гель для проблемної шкіри",
+              "description": "В3 Deep Action Soapless Soap For Problematic Skin - гель для очищення проблемної шкіри глибокої дії .."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-135.jpg",
+              "title": "Dr. Kadir В3 Deep Action Soapless Soup - Очищаючий гель для проблемної шкіри глибокої дії",
+              "description": "Чудовий гель дозволяє якісно очистити шкіру, схильну до запалення та подразнення. Він є відмінним ан.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-136.jpg",
+              "title": "Dr. Kadir В3 Extra Light Day Cream for Oily and Problematic Skin Крем для обличчя для проблемної та жирної шкіри",
+              "description": "Власниці проблемної шкіри, схильної до жирності, знайомі з проблемами, що є наслідками надмірного ві.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-137.jpg",
+              "title": "Dr. Kadir В3 Lavender Cleansing Foam Очищаюча пінка з лавандою для проблемної шкіри обличчя",
+              "description": "Може здатися, що в очищенні обличчя немає нічого складного - вмиваєш личко водою і все. Однак, після.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-138.jpg",
+              "title": "Dr.Kadir No. 1 Peptide Serum 30ml Пептидна сироватка з ефектом ліфтингу",
+              "description": "Dr.Kadir No. 1 Peptide Serum 30ml–Пептидна сироватка з ефектом ліфтингуОсновни.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-139.jpg",
+              "title": "Зволожуючий гель-провідник під апарати / HYDRO-CONDUCTIVE GEL Dr. Kadir",
+              "description": "Спеціальний зволожуючий гель-провідник під апарати - це правильне доповнення для багатьох різних про.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-140.jpg",
+              "title": "Тонік для нормальної шкіри троянда-ромашка. Cleaners and Tonic Rose-Chamomile 1000 ml",
+              "description": "Протягом дня на нашій шкірі накопичується величезна кількість забруднень, крім того, природні процес.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-141.jpg",
+              "title": "Тонік з гамамелісом для жирної шкіри - Dr. Kadir Cleaners and Tonic Astringent-Hamamelis Tonic for Oily Skin 1000 ml",
+              "description": "Для ефективного очищення шкіри від накопичених за день забруднень, залишків косметики, надлишків шкі.."
+            },
+            {
+              "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-142.jpg",
+              "title": "Тонік, що очищає, без спирту. Dr. Kadir Cleaners та Tonic Alcohol Free Cleansing Tonic 1000 ml",
+              "description": "Наша шкіра потребує якісного та регулярного очищення. Щоб не пошкодити і не пересушити її звичайним .."
+            }
+          ]
+    },
+    {
+      "title": "Косметика від Mesoestetic",
+      "logo": "../../../../assets/images/cosmetics/company-logo/Caromed-Logo.png",
+      "cosmetics": [
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-1.jpg",
+          "title": "Mesoestetic c.prof 210 depigmentation solution - депігментуючий коктейль для мезотерапії",
+          "description": "Депігментуючий коктейль із освітлюючим ефектом:\tвідбілювання, корекція пігментації, антиоксида.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-2.jpg",
+          "title": "Acnelan Acne one - крем для шкіри схильної до акне Mesoestetic",
+          "description": "Основний препарат для щоденного контролю за себорейною та схильною до акне шкіри. Ключовим елементом.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-3.jpg",
+          "title": "Acnelan Pure renewing mask очищувальна маска Mesoestetic",
+          "description": "Маска для щотижневого використання для догляду за себорейною та схильною до акне шкіри.Очищуваль.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-4.jpg",
+          "title": "COSMELAN - PACK / ПРОФЕСІЙНА ПРОГРАМА",
+          "description": "Професійна програма cosmelan, що депігментує, від MesoesteticПрограма Cosmelan (Космелан) .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-5.jpg",
+          "title": "COUPEREND CREAM Заспокійливий крем проти куперозу та почервонінь Куперенд",
+          "description": "Заспокоює, знімає набряки та почервоніння, мінімізує подразнення шкіри, діючи у периваскулярному про.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-6.jpg",
+          "title": "Global Eyecon / Професійний набір для корекції множинних дефектів контуру очей",
+          "description": "Показання:\tМімічні зморшки\tМішки та темні кола під очима\tВерхня повіка, що опустилася..."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-7.jpg",
+          "title": "Mesoesteticage element anti-wrinkle lip Крем-контур для губ з антивіковим ефектом",
+          "description": "Формула, призначена для відновлення соковитого вигляду губ. Комбінація активних інгредієнтів інтенси.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-8.jpg",
+          "title": "Mesoestetic - Acnelan - Acne Solution Pack / Професійний набір Акнелан",
+          "description": "Набір Acnelan pack призначений для лікування акне виключно у кабінеті спеціаліста. Цепов'я.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-9.jpg",
+          "title": "Mesoestetic - Acnelan - Purifying mousse / Очищаючий мус для проблемної шкіри",
+          "description": "Очищаючий мус для щоденного використання.Очищаюча, КЕРАТОЛІТИЧНА, коригуюча дія: антисептична ді.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-10.jpg",
+          "title": "MESOESTETIC - Anti-stress Mask - Заспокійлива маска",
+          "description": "Заспокійлива маска для чутливої ​​шкіриМаска інтенсивної дії заспокоює, зменшує почервоніння та .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-11.jpg",
+          "title": "Mesoestetic - Bodyshock - Intensifying Cream / Крем з дренуючим та ліполітичним ефектом",
+          "description": "Крем для закриття процедури. Забезпечує дію активних компонентів протягом 24 годин після процедури. .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-12.jpg",
+          "title": "Mesoestetic - c.prof 213 - Mesotox solution Ботулопептид для мезотерапії",
+          "description": "Зміцнення та омолодження шкіри обличчя:\tблокує мязові скорочення\tзнижує активність мімі.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-13.jpg",
+          "title": "Mesoestetic - c.prof 214 - Mesopeptide solution / Пептидний коктейль для мезотерапії",
+          "description": "Ущільнення дерми та підвищення пружності шкіри:\tСтимуляція синтезу фібробластів та колагену у .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-14.jpg",
+          "title": "Mesoestetic - c.prof 220 - Draining Solution - Дренажний коктейль для мезотерапії",
+          "description": "Дренажний коктейль для мезотерапії з протинабряковим ефектом: Дренажна, протинабрякова та венотонізу.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-15.jpg",
+          "title": "Mesoestetic - c.prof 221 - Lipolytic Solution Ліполітичний коктейль - Мезопрепарат",
+          "description": "Ліполітичний коктейль з ефектом зменшення розмірів та кількості адипоцитів.Мезококтейль застосов.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-16.jpg",
+          "title": "Mesoestetic - c.prof 222 Body Firming Solution - Зміцнюючий коктейль для тіла - мезопрепарат",
+          "description": "Коктейль для тіла, що зміцнює: живлення, зміцнення, стимуляція синтезу сполучної тканини. Ідеально п.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-17.jpg",
+          "title": "Mesoestetic - c.prof 223 Skinmark solution Коктейль проти розтяжок - мезопрепарат",
+          "description": "Зменшення та нейтралізація розтяжок:\tНейтралізація розтяжок та запобігання їх появі\tЗменшенн.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-18.jpg",
+          "title": "Mesoestetic - c.prof 224 Cellullishock solution / Антицелюлітний коктейль - мезопрепарат",
+          "description": "Лікування целюліту та підвищення пружності шкіри:\tліполітична дія\tполіпшення мікроциркуляції.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-19.jpg",
+          "title": "Mesoestetic - c.prof 230 Нair Loss Solution - Коктейль для стимуляції росту волосся - мезопрепарат",
+          "description": "Мезококтейль регенерує шкіру голови, стимулює процеси метаболізму у волосяному фолікулі, стимулює рі.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-20.jpg",
+          "title": "Mesoestetic - Energy C - Complex / Енергетична сироватка з вітаміном С",
+          "description": "Для підтримки шкіри у здоровому стані, захисту від фотостаріння, появи зморшок та мімічних зморшок р.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-21.jpg",
+          "title": "Mesoestetic - Energy C - Eye contour / Крем для шкіри навколо очей",
+          "description": "Крем для інтенсивного догляду за шкірою навколо очей із ознаками втоми. Має комплексну антиоксидантн.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-22.jpg",
+          "title": "Mesoestetic - Energy C - Intensive cream / Енергетичний крем із вітаміном С",
+          "description": "Крем для боротьби з першими ознаками старіння. Легко наноситься та комфортно розподіляється по шкірі.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-23.jpg",
+          "title": "Mesoestetic - Home performance - Antiaging flash ampoules / Омолоджуючі ампули",
+          "description": "Омолоджуючі ампули для активної регенерації шкіри після професійних процедур від Mesoestetic.Омо.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-24.jpg",
+          "title": "Mesoestetic - Home performance - AOX Ferulic / Антиоксидантна сироватка з феруловою кислотою",
+          "description": "Новий Aox Ferulic - це ультрасучасний антиоксидантний концентрат, який захищає клітини, а також має .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-25.jpg",
+          "title": "Mesoestetic - Home performance - Brightening peel booster / Підсилювач освітлення, пілінг",
+          "description": "Для шкіри з гіперпігментацією, нерівним тоном, недосконалістю та ознаками фотостаріння.Знижує ді.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-26.jpg",
+          "title": "Mesoestetic - Home Performance - Glycolic Acid 10% + vit. E and F / Ампули з 10% гліколевою кислотою з вітамінами Е+F",
+          "description": "Ампули із 10% гліколевою кислотою для професійних процедур від Mesoestetic.Коктейль, що відновлю.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-27.jpg",
+          "title": "Mesoestetic - Home performance - Glycorepair / Відновлюючий гель з гліколевою кислотою",
+          "description": "Відновлюючий гель із гліколевою кислотою для передпілінгової підготовки від mesoestetic. Відновлюючи.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-28.jpg",
+          "title": "Mesoestetic - Home performance - HA Densimatrix / Інтенсивна мультимолекулярна сироватка, що омолоджує, на основі декількох форм гіалуронової кислоти",
+          "description": "Чиста гіалуронова кислота в декількох молекулярних формах для ефективного наповнення та зволоження ш.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-29.jpg",
+          "title": "Mesoestetic - Home performance - Hydra-vital factor K / Гідроживильний крем фактор К",
+          "description": "Інтенсивний зволожуючий крем для сухої та зневодненої шкіри від mesoestetic. Гідроживильний крем, по.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-30.jpg",
+          "title": "Mesoestetic - Home performance - Melan tran3x Concentrate / Інтенсивна сироватка, що депігментує.",
+          "description": "Інтенсивна депігментуюча сироватка Tran3X зменшує утворення меланіну та освітлює пігментні плями.&amp;nb.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-31.jpg",
+          "title": "Mesoestetic - Home performance - Melan tran3x gel cream / Депігментуючий гель-крем",
+          "description": "Депігментуючий гель-крембореться з пігментними плямами.Легка приємна консистенція швидко.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-32.jpg",
+          "title": "Mesoestetic - Home performance - Melatonin ampoules / Мелатонін - нічний догляд",
+          "description": "Нічний відновлюючий коктейль, що омолоджує. Стимулює відновлювальні механізми у нічний час..."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-33.jpg",
+          "title": "Mesoestetic - Home performance - Pollution defense ampoules / Захист від агресивних факторів",
+          "description": "Антиоксидантне рішення захисту від міських забруднюючих чинників. Омолоджуючий захист від щоденних а.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-34.jpg",
+          "title": "Mesoestetic - Home performance - Post Procedure Крем, що відновлює шкіру після процедур",
+          "description": "Інтенсивний відновлюючий крем після процедур від mesoestetic. Крем усуває набряки, еритему, стимулює.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-35.jpg",
+          "title": "Mesoestetic - Home performance - Proteoglycans ampoules / Ампули з протеогліканами",
+          "description": "Зволожуючі та поживні ампули для активної регенерації шкіри після професійних процедур від Mesoestet.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-36.jpg",
+          "title": "Mesoestetic - Home performance - Resurfacing peel booster / Реструктуруючий підсилювач пілінгу",
+          "description": "Реструктуруючий підсилювач пілінгу призначений для шкіри схильної до акне та себореї.Застосовуєт.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-37.jpg",
+          "title": "MESOESTETIC - Hydratonic mist- Зволожуючий спрей",
+          "description": "Зволожуючий спрей для обличчяІнноваційна лінійка продуктів, розроблена для ефективного очищення .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-38.jpg",
+          "title": "Mesoestetic - Hydravital Mask - Зволожуюча маска",
+          "description": "MESOESTETIC - Hydravital Mask - Зволожуюча маскаІнтенсивно зволожуюча маска для обличчя з гіалур.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-39.jpg",
+          "title": "Mesoestetic - Mesohyal - Biotin / Мезогіал Біотин - мезопрепарат",
+          "description": "Біоревіталізант на основі гіалуронової кислоти з біотином для лікування алопеції та себорейного дерм.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-40.jpg",
+          "title": "Mesoestetic - Mesohyal - DMAE / Ампули ДМАЄ",
+          "description": "Біоревіталізуючий препарат, що поєднує в собі ДМАЕ 3% та гіалуронову кислоту mesohyal DMAE, для підв.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-41.jpg",
+          "title": "Mesoestetic - Mesohyal - Melilot / Ампули Екстракт Буркуну",
+          "description": "Препарат біоревіталізації з вмістом буркуну та рутину для лікування набрякового целюліту на основі г.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-42.jpg",
+          "title": "Mesoestetic - Mesohyal - NCTC 109 /Вітамінний коктейль NCTC 109",
+          "description": "Вітамінний коктейль для біоревіталізації на основі гіалуронової кислоти mesohyal NCTC 109, що забезп.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-43.jpg",
+          "title": "Mesoestetic - Mesohyal - Oligoelements / Ампули Олігоелементи",
+          "description": "Біоревіталізація нового покоління на основі гіалуронової кислоти у поєднанні з олігоелементами стиму.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-44.jpg",
+          "title": "Mesoestetic - Mesohyal - Organic Silicon / Органічний силікон",
+          "description": "Біоревіталізація mesohyal ORGANIC SILICON – регенеруючий, реструктуруючий коктейль, у складі я.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-45.jpg",
+          "title": "Mesoestetic - Mesohyal - Vitamin C / Ампули Вітамін С",
+          "description": "Біоревіталізація на основі гіалуронової кислоти для інтердермальної біоревіталізації mesohyal VITAMI.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-46.jpg",
+          "title": "Mesoestetic - Mesohyal - X-DNA / Ампули X-DNA",
+          "description": "Біоревіталізація mesohyal X-DNA – новий препарат цієї лінії, який стимулює регенерацію шкіри, .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-47.jpg",
+          "title": "Mesoestetic - Mesohyal Carnitine / Ампули L-карнітин",
+          "description": "Біоревіталізант для лікування твердого целюліту на основі гіалуронової кислоти з L-карнітином &amp;ndash.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-48.jpg",
+          "title": "Mesoestetic - Mesoprotech - Антивікова сироватка «вуаль» / Light water antiaging veil - spf 50+",
+          "description": "Має anti-age ефект. Має специфічну текстуру у вигляді надлегкої емульсії, яка швидко поглинається, с.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-49.jpg",
+          "title": "Mesoestetic - Mesoprotech - Мінеральний матуючий антивіковий крем / Mineral matt antiaging fluid - spf 50+",
+          "description": "Має anti-age ефект. Має специфічну текстуру у вигляді рідкої емульсії, яка дає на шкірі пудрово-мату.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-50.jpg",
+          "title": "Mesoestetic - Mesoprotech - Мелан 130+ пігмент контроль (Депігментуючий крем із тоном) / Melan 130+ pigment control - spf 50+",
+          "description": "Ніжний крем із тоном тілесного кольору, що містить пігменти. Він не залишає білих слідів на шкірі, м.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-51.jpg",
+          "title": "Mesoestetic - Mesoprotech - Омолоджувальне масло / Nourishing antiaging oil - spf 50+",
+          "description": "Має антивікові властивості. Текстура гелю під час нанесення плавно перетворюється на легку олію, яка.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-52.jpg",
+          "title": "Mesoestetic - Mesoprotech - Сонцезахисний стик, що відновлює, для чутливих зон / Sun protective repairing stick - spf 50+",
+          "description": "Має практичний формат, який дозволяє використовувати його у будь-який час та в будь-якому місці. Доб.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-53.jpg",
+          "title": "Mesoestetic - Micellar Biphasic - Двофазна міцелярна вода",
+          "description": "Двофазна міцелярна водаІнноваційна лінійка продуктів, розроблена для ефективного очищення шкіри,.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-54.jpg",
+          "title": "Mesoestetic - Professional expertise - Anti-stress face mask / Заспокійлива маска Анти-стрес",
+          "description": "Заспокійлива маска анти-стрес для чутливої ​​та подразненої шкіри від mesoestetic. Відновлююча маска.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-55.jpg",
+          "title": "Mesoestetic - Professional expertise - Facial massage cream / Масажний крем для обличчя",
+          "description": "Професійний масажний крем, спеціально розроблений для масажних технік, що омолоджують і моделюють, в.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-56.jpg",
+          "title": "Mesoestetic - Professional expertise - Hydra Milk Cleanser / Очищувальне гідро-молочко для обличчя",
+          "description": "Очищувальне гідро-молочко для всіх типів шкіри від mesoestetic, у тому числі сухої та чутливої. Ефек.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-57.jpg",
+          "title": "Mesoestetic - Professional expertise - Hydra-vital face mask / Гідро-поживна маска для обличчя",
+          "description": "Гідро-поживна відновлююча маска для сухої та зневодненої шкіри від mesoestetic. Інтенсивно зволожує,.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-58.jpg",
+          "title": "Mesoestetic - Professional expertise - Hydra-vital factor k / Зволожуючий крем для обличчя",
+          "description": "Інтенсивний зволожуючий крем для сухої та зневодненої шкіри від mesoestetic. Гідроживильний крем, по.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-59.jpg",
+          "title": "Mesoestetic - Professional expertise - Hydratonic / Тонізуючий лосьйон для обличчя",
+          "description": "Гідротонік - тонізуючий лосьйон з терпким ефектом для всіх типів шкіри. Видаляє забруднення, що зали.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-60.jpg",
+          "title": "Mesoestetic - Professional expertise - Mesolips Protector / Захисний крем для губ",
+          "description": "Поживний бальзам призначений для захисту чутливої ​​шкіри губ під час процедур із застосуванням кисл.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-61.jpg",
+          "title": "Mesoestetic - Professional expertise - Moisturising Sun Protection SPF 50+ / Зволожуючий сонцезахисний крем SPF 50+",
+          "description": "Інтенсивний зволожуючий сонцезахисний крем для сухої та зневодненої шкіри від mesoestetic.Сонцез.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-62.jpg",
+          "title": "Mesoestetic - Professional expertise - Post-peel 1% retinol concentrate / Постпілінговий концентрат з 1% Ретинолом",
+          "description": "Постпілінговий концентрат з 1% ретинолом призначений для активації, посилення та пролонгування дії д.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-63.jpg",
+          "title": "Mesoestetic - Professional expertise - Post-peel crystal fiber mask / Пост-пілінгова маска з кристалічними волокнами",
+          "description": "Поста-пілінгова маска, що відновлює, омолоджує, застосовується після професійних пілінгів та апаратн.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-64.jpg",
+          "title": "Mesoestetic - Professional expertise - Post-peel neutralizing spray / Спрей-нейтралізатор пілінгу",
+          "description": "Спрей з активними інгредієнтами, такими як бікарбонат натрію та екстракт алое віра, щоб ефективно не.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-65.jpg",
+          "title": "Mesoestetic - Professional expertise - Post-procedure Fast Skin Repair / Інтенсивний крем, що відновлює після професійних процедур",
+          "description": "Інтенсивний відновлюючий крем після процедур від mesoestetic. Крем усуває набряки, еритему, стимулює.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-66.jpg",
+          "title": "Mesoestetic - Pure Renewing Mask - Очищувальна маска",
+          "description": "Інтенсивна маска, що очищає.Некомедогенна, дерматологічно протестована. І тепер із новою формуло.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-67.jpg",
+          "title": "MESOESTETIC - Purifying Mousse - Пінка, що очищує",
+          "description": "Очищаюча пінка для жирної та схильної до акне шкіриЛегка пінка для обличчя з освіжаючою дією.&amp;nb.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-68.jpg",
+          "title": "Mesoestetic - Radiance DNA - Elixir / Еліксир, що зміцнює та омолоджує",
+          "description": "Регенеруючий антиоксидантний еліксир (нутрицевтик), активізує клітинний метаболізм у дермі та уповіл.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-69.jpg",
+          "title": "Mesoestetic - Stem Cell - Active growth factor / Крем з рослинними факторами, що відновлюють",
+          "description": "Високоактивний крем з легкою текстурою, містить екстракт рослинних стовбурових клітин яблука та факт.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-70.jpg",
+          "title": "Mesoestetic - Stem Cell - Nanofiller lip contour / Регенеруючий крем-філер для губ",
+          "description": "Делікатний крем для губ контуру з ефектом філера. Містить екстракт рослинних стовбурових клітин, ком.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-71.jpg",
+          "title": "Mesoestetic - Stem Cell - Serum restructuractive / Ревіталізуюча сироватка для обличчя",
+          "description": "Висококонцентрована сироватка з інтенсивною дією, що відновлює. Містить 10% екстракт рослинних стовб.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-72.jpg",
+          "title": "Mesoestetic - Sun protection - Moisturising sun protection / Крем для повного захисту від сонця",
+          "description": "Інтенсивний зволожуючий сонцезахисний крем для сухої та зневодненої шкіри від mesoestetic.Сонцез.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-73.jpg",
+          "title": "Mesoestetic - Tricology treatment - Tricology hair growth intensive lotion / Лосьйон для росту волосся",
+          "description": "Інтенсивний лосьйон є ефективним препаратом для лікування випадання волосся з активною дією, що відн.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-74.jpg",
+          "title": "Mesoestetic - Ultimate W+ - Whitening cream / Крем для освітлення",
+          "description": "Довге перебування на сонці та в солярії, а також вікові зміни «нагороджують» наші покрив.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-75.jpg",
+          "title": "Mesoestetic - Ultimate W+ - Whitening elixir / Освітлювальний питний еліксир",
+          "description": "Натуральний питний нутрицевтик вирівнює тон шкіри зсередини, посилюючи дію місцевого догляду. Препар.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-76.jpg",
+          "title": "Mesoestetic - Ultimate W+ - Whitening essence / Сироватка, що освітлює",
+          "description": "Вікові зміни, на жаль, не оминають нікого стороною. Після 40 років жінки часто помічають, що на обли.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-77.jpg",
+          "title": "Mesoestetic - Ultimate W+ - Whitening spot eraser / Освітлювальний коректор",
+          "description": "Багато жінок зауважують, що з віком на шкірі обличчя та декольте з'являється все більше темних п.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-78.jpg",
+          "title": "Mesoestetic - Ultimate W+ - Whitening toning lotion / Освітлюючий тонізуючий лосьйон",
+          "description": "Тонізуючий лосьйон, що володіє освітлюючою, матуючою і регулюючою дією, призначений для завершення п.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-79.jpg",
+          "title": "Mesoestetic - x.prof 010 - Lipolytic Artichoke Extract Ampoules / Екстракт артишоку з ліполітичною дією",
+          "description": "Препарат мезотерапії для лікування целюліту та жирових відкладень.Властивості:Ліполітична ді.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-80.jpg",
+          "title": "Mesoestetic - x.prof 011 - Redusing Caffeine Ampoules / Кофеїн",
+          "description": "Препарат мезотерапії для лікування целюліту та локальних жирових відкладень.Властивості:Кофе.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-81.jpg",
+          "title": "Mesoestetic - x.prof 012 - L-Carnitine Anti-cellulite Ampoules / L-Карнітін",
+          "description": "Препарат мезотерапії для лікування целюліту різної етіологіїВластивості:У процесі ліполізу т.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-82.jpg",
+          "title": "Mesoestetic - x.prof 013 - Organic Silicon Regenerating Ampoules / Органічний силікон 0,5 %",
+          "description": "Препарат мезотерапії органічного кремнію для регенерації та зволоження шкіри.Властивості:Сил.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-83.jpg",
+          "title": "Mesoestetic - x.prof 014 - Organic Silicon Regenerating Ampoules / Органічний силікон 1%",
+          "description": "Препарат мезотерапії органічного кремнію для регенерації та зволоження шкіри.Властивості:Сил.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-84.jpg",
+          "title": "Mesoestetic - x.prof 015 - Tonifying Melitol Extract Ampoules / Екстракт Буркуну + Рутин",
+          "description": "Препарат мезотерапії для лікування набрякового целюлітуКомплекс даних компонентів має ряд власти.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-85.jpg",
+          "title": "Mesoestetic - x.prof 016 - 1% Glycolic Acid Ampoules / Гліколева кислота 1%",
+          "description": "Препарат мезотерапії для лікування вугрової висипки, розтяжок та зморшок.Властивості:.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-86.jpg",
+          "title": "Mesoestetic - x.prof 018 - Mesostabyl Ampoules / Мезостабіл",
+          "description": "Мезотерапевтичний препарат Мезостабіліз для лікування целюлітуВластивості:Полінена.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-87.jpg",
+          "title": "Mesoestetic - x.prof 019 - 20% Dexpantenol Ampoules / Декспантенол",
+          "description": "Препарат мезотерапії Декспантенол – лікування алопеції та себорейного дерматиту..."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-88.jpg",
+          "title": "Mesoestetic - x.prof 020 - 20% Vitamin C Ampoules / Вітамін С 20%",
+          "description": "Препарат для мезотерапії Вітамін СВластивості:Вітамін С (аскорбінова кислота) поря.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-89.jpg",
+          "title": "Mesoestetic - x.prof 021 - 3% DMAE Ampoules/DMAE (деметиламіноетанол) 3%",
+          "description": "Препарат мезотерапії для підвищення еластичності та пружності шкіри.Властивості:Ди.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-90.jpg",
+          "title": "Mesoestetic - x.prof 022 - Piruvex Ampoules / Пірувекс",
+          "description": "Мезотерапевтичний препарат для лікування алопеції та омолодження шкіри.Властивості:.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-91.jpg",
+          "title": "Mesoestetic - x.prof 024 - Proteoplus / Протеоплюс",
+          "description": "Мезотерапевтичний препарат для зміцнення та зволоження шкіри обличчя та тіла.Властивос.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-92.jpg",
+          "title": "Mesoestetic - x.prof 038 - 0,5% Venofresh Lipoplus / Венофреш 0,5%",
+          "description": "Препарат мезотерапії зменшення видимості судинної стінки на ногах.Властивості:Доде.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-93.jpg",
+          "title": "Mesoestetic - x.prof 039 - 2% Venofresh Lipoplus / Венофреш 2%",
+          "description": "Препарат мезотерапії зменшення видимості судинної стінки на ногах.Властивості:Доде.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-94.jpg",
+          "title": "Mesoestetic - x.prof 040 - Centella Asiatica Ampoules / Екстракт Центелли Азіатської",
+          "description": "Мезотерапевтичний препарат для регенерації шкіри обличчя та тіла.Властивості:Екстр.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-95.jpg",
+          "title": "Mesoestetic - x.prof 108 - Hyaluronic Acid Gel / Гіалуронова кислота",
+          "description": "Препарат на основі гіалуронової кислоти для мезотерапіїВластивості:Гіалуронова кис.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-96.jpg",
+          "title": "Mesoestetic - x.prof 109 - Bioflesh NCTC-109 / Біофлеш NCTC-109",
+          "description": "Вітамінний коктейль для мезотерапії та апаратної косметології.Властивості:Біофлеш .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-97.jpg",
+          "title": "Mesoestetic - x.prof 110 - X-DNA Gel / Ампули X-DNA",
+          "description": "Мезотерапевтичний монопрепарат X-DNA для шкіри обличчя та тіла.Властивості:X-ДНК м.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-98.jpg",
+          "title": "Mesoestetic - x.prof 150 - Reductonidasa / Редуктонідаза",
+          "description": "Препарат мезотерапії РедуктонідазаВластивості:Гіалуронідаза –це білок .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-99.jpg",
+          "title": "Mesoestetic - x.prof 151 - Glutatione / Глутатіон",
+          "description": "Препарат мезотерапії Глутатіон.Властивості:Глутатіон є одним із найважливіших ендо.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-100.jpg",
+          "title": "Mesoestetic age element® anti-wrinkle concentrate Концентрат проти зморшок",
+          "description": "age element® anti-wrinkle concentrateКонцентрована сироватка, яка зменшує помітні зморшк.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-101.jpg",
+          "title": "Mesoestetic age element® anti-wrinkle eye contour Крем для шкіри навколо очей",
+          "description": "Крем для шкіри навколо очей age element® anti-wrinkle eye contour з профілактичною та кори.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-102.jpg",
+          "title": "Mesoestetic age element® anti-wrinkle night cream Нічний антивіковий крем",
+          "description": "age element® anti-wrinkle night creamНічний крем з екстрактом лаванди, факторами росту та гі.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-103.jpg",
+          "title": "Mesoestetic age element® brightening complex plus Освітлюючий комплекс",
+          "description": "Age element® brightening complex plusІнтенсивна антиоксидантна та освітлююча програма,.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-104.jpg",
+          "title": "Mesoestetic age element® brightening concentrate Освітлюючий концентрат з антиоксидантним захистом",
+          "description": "Освітлюючий концентрат з антиоксидантним захистом вирівнює тон шкіри, містить біотехнологічний е.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-105.jpg",
+          "title": "Mesoestetic age element® brightening cream Освітлюючий антивіковий крем",
+          "description": "Ревіталізуючий крем age element® brightening cream бореться з першими ознаками старіння з освітл.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-106.jpg",
+          "title": "Mesoestetic age element® brightening eye contour Освітлюючий гель-крем для контуру очей",
+          "description": "age element® brightening eye contourГель-крем для контуру очей, з освітлюючою дією, зменшу.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-107.jpg",
+          "title": "Mesoestetic age element® firmingcream Зміцнюючий крем для боротьби з дряблістю шкіри обличчя, шиї та декольте.",
+          "description": "Age element® firming creamЗміцнюючий крем для боротьби з дряблістю шкіри обличчя, шиї .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-108.jpg",
+          "title": "Mesoestetic age element® firming concentrate Зміцнюючий концентрат",
+          "description": "age element® firming concentrateВисококонцентрована сироватка з миттєвим ліфтинг-е.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-109.jpg",
+          "title": "Mesoestetic age element® instant firming mask Альгінатна маска з миттєвим ліфтинг ефектом",
+          "description": "age element® instant firming mask саше 25 гр / саше 110 мл\tглибоко проникає в кожну .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-110.jpg",
+          "title": "Mesoestetic Anti Aging Body Sun Mist SPF 30 сонцезахисний спрей для тіла з антивіковим ефектом",
+          "description": "Сонцезахисний спрей для тіла MESOESTETIC AntiAging Body Sun Mist SPF 30 з антивіковим ефектом - SPF .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-111.jpg",
+          "title": "Mesoestetic Anti-Blemish Solutions Blemiderm Resurfacing Gel - Відновлюючий та ретекстуруючий гель",
+          "description": "Відновлюючий та ретекстуруючий гель для комбінованої, жирної, схильної до акне шкіри. Звужує пори, о.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-112.jpg",
+          "title": "Mesoestetic antiaging facial sun mist Сонцезахисний спрей SPF 50+",
+          "description": "Омолоджуючий спрей для обличчя SPF50+ зі свіжою та надлегкою текстурою, рівномірно наноситися на шкі.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-113.jpg",
+          "title": "Mesoestetic Bodyshock firming booster підсилювач ліфтингу, 100 мл",
+          "description": "Bodyshock firming booster підсилювач ліфтингу, 100 млПрофесійний продукт для використання з розч.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-114.jpg",
+          "title": "Mesoestetic Bodyshock Remodelling Mask / Моделююча маска",
+          "description": "Ремоделирующая маска з термоефектом, дренирующими і ліполітичними властивостями, що допомагають змен.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-115.jpg",
+          "title": "Mesoestetic Bodyshock Tightening Mask / Маска з ліфтинговим ефектом",
+          "description": "Ліфтингова маска має охолоджувальний ефект, що забезпечує ліфтинг шкіри. Покращує венозний відтік. С.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-116.jpg",
+          "title": "Mesoestetic Brightening foam - Пінка, що освітлює, для вмивання",
+          "description": "Пінка, що освітлює, для вмивання з кремовою текстуроюІнноваційна лінійка продуктів для очищення .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-117.jpg",
+          "title": "Mesoestetic Collagen 360 Professional Treatment Професійний набір Колаген 360 (5 процедур)",
+          "description": "Простий ефективний догляд для шкіри обличчя та шиї, що поєднує засоби для підвищення щільності та ел.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-118.jpg",
+          "title": "Mesoestetic Collagen 360° Essence / Сироватка, що омолоджує",
+          "description": "Есенція від зморшок Collagen 360 Mesoestetic Collagen 360 Essence має потужну формулу з ефектом ліфт.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-119.jpg",
+          "title": "Mesoestetic Collagen 360° Eye Contour - Регенеруючий крем для шкіри навколо очей",
+          "description": "Інтенсивний крем-догляд для боротьби з ознаками старіння шкіри навколо очей. Потужний комплекс пепти.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-120.jpg",
+          "title": "Mesoestetic Collagen 360° Intensive Cream / Інтенсивний крем, що регенерує",
+          "description": "М'яка, щільна, злегка масляниста емульсія з гарним ефектом розподілу та ненав'язливим комфор.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-121.jpg",
+          "title": "Mesoestetic Cosmelan 2 / Депігментуючий крем, що відновлює",
+          "description": "З віком шкіра починає зазнавати вікових змін. Вона втрачає еластичність, пружність, покривається змо.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-122.jpg",
+          "title": "Mesoestetic Dermamelan Mask / Маска Дермамелан",
+          "description": "Депігментуюча маска інноваційного складу, призначена для усунення пігментних плям меланінового поход.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-123.jpg",
+          "title": "Mesoestetic Dermamelan Pack / Професійна програма",
+          "description": "Професійна програма Dermamelan, що депігментує, від MesoesteticПрограма Dermamelan (Дермамелан) .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-124.jpg",
+          "title": "Mesoestetic Dermamelan Treatment / Відновлюючий депігментуючий крем",
+          "description": "Що таке метод dermamelan® і як він працює?dermamelan ® - це медичний метод депігментуван.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-125.jpg",
+          "title": "Mesoestetic Grascontrol detox powder - Порошок для детоксикації",
+          "description": "Порошок для детоксикації grascontrol. Харчова добавка з екстрактом артишоку, екстрактом берези та ку.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-126.jpg",
+          "title": "Mesoestetic Grascontrol Extracto de Alcachofa Харчова добавка з екстрактом артишоку",
+          "description": "Grascontrol Extracto de Alcachofa від Mesoestetic - харчова добавка, призначена для боротьби із затр.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-127.jpg",
+          "title": "Mesoestetic Grascontrol L-Carnitina Харчова добавка з L-карнітином",
+          "description": "Mesoestetic Grascontrol L-Carnitina - Харчова добавка для зниження вагиЕфективний .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-128.jpg",
+          "title": "Mesoestetic Grascontrol lipactive solution - Харчова добавка в рідкій формі з L-карнітином",
+          "description": "Харчова добавка в рідкій формі з L-карнітином, женьшенем та екстрактом гіркого апельсина. Включає 14.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-129.jpg",
+          "title": "Mesoestetic Hydra-vital light Ревіталізуючий зволожуючий гель-крем",
+          "description": "Освіжаючий та ревіталізуючий зволожуючий гель-крем Hydra-vital light забезпечує дворівневе зво.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-130.jpg",
+          "title": "Mesoestetic Hydracream Fusion - Крем-молочко для вмивання",
+          "description": "Крем-молочко для вмивання.Інноваційна лінійка продуктів, розроблена для ефективного очищення шкі.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-131.jpg",
+          "title": "Mesoestetic melan recovery Заспокійливий і відновлюючий бальзам",
+          "description": "melan recoveryІнтенсивний заспокійливий бальзам, прибирає реактивні ознаки подразнен.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-132.jpg",
+          "title": "Mesoestetic Mesohyal Argibenone Біоревіталізант",
+          "description": "Mesoestetic Mesohyal Argibenone- БіоревіталізантДермальний бустер з біоміметичними пептидами для.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-133.jpg",
+          "title": "Mesoestetic Mesohyal Hyaluronic X-DNA Біоревіталізант",
+          "description": "Препарат для біоревіталізації mesohyal Hyaluronic-гелевий розчин з високою концентрацією.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-134.jpg",
+          "title": "Mesoestetic Mesohyal Redenx Біоревіталізант",
+          "description": "Mesohyal Redenx біоревіталізант показаний для корекції глибоких зморшок. Препарат прискорює синтез к.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-135.jpg",
+          "title": "Mesoestetic Mesoprotech Moisturising Sun Protection 50+Сонцезахисний зволожуючий крем spf 50 Мезопротект",
+          "description": "Дуже високий захист від сонця (SPF50+) для всіх типів шкіри. Містить різні типи сонцезахисних фільтр.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-136.jpg",
+          "title": "Mesoestetic Professional expertise Pre-procedure cleansing solution / Професійний знежирюючий лосьйон",
+          "description": "Професійний знежирюючий лосьйон для професійних процедур від Mesoestetic.Знежирюючий, злегка екс.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-137.jpg",
+          "title": "Mesoestetic Skin Balance - Інтенсивний заспокійливий концентрат для чутливої шкіри",
+          "description": "Mesoestetic Skin Balance - сироватка, призначена для заспокоєння подразнень чутливої шкіри. Зм.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-138.jpg",
+          "title": "Mesoestetic Skin balance serum Інтенсивний заспокійливий концентрат для чутливої шкіри",
+          "description": "Skin balance serumІнтенсивний заспокійливий концентрат для чутливої шкіри.Заспокоює подразне.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-139.jpg",
+          "title": "Mesoestetic Skin Retin 0,3% / Інтенсивний нічний крем з ретинолом",
+          "description": "Крем, що поєднує чистий ретинол і бакучіол, з інтенсивним регенерує і оновлюючим дією. Омолоджує, ос.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-140.jpg",
+          "title": "Mesoestetic Tightening mask bodyshock - зміцнююча маска з охолоджуючим ефектом для тіла",
+          "description": "Допомагає відновити пружність шкіри. Дає підтягуючий ефект, покращуючи еластичність і зменшуюч.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-141.jpg",
+          "title": "Mesoestetic Tricology intensive hair loss shampoo - Шампунь проти випадіння волосся",
+          "description": "Інтенсивний шампунь проти випадіння волосся Tricology intensive hair loss shampoo (у складі Сереноа .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-142.jpg",
+          "title": "Mesoestetic Ultimate Micropeel - Мікропілінг",
+          "description": "Мікровідлущуючий біфазний розчинМякий пілінг для обличчя для домашнього догляду..."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-143.jpg",
+          "title": "Mesoestetic Зміцнюючий крем-ліфтинг для контуру очей age element® firming eye contour",
+          "description": "Зміцнюючий крем-ліфтинг для контуру очей age element® firming eye contourКонцентрована.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-144.jpg",
+          "title": "Mesofiller Global 20 мг/мл Дермальний філер для губ та середніх зморшок",
+          "description": "Дермальний філлер mesofiller global для середніх зморшок та губ. Препарат на основі ретикульованої г.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-145.jpg",
+          "title": "Mesopeel - Azelan / Азелаїновий пілінг",
+          "description": "Комбінований пілінг Азелан, який включає азелаїнову кислоту (20%) і саліцилову кислоту (20%), розроб.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-146.jpg",
+          "title": "Mesopeel - Glycolic Peel AG 20% / Гліколевий пілінг AG 20%",
+          "description": "Пілінг на основі гліколевої кислоти для омолодження шкіри.Гліколева кислота\tГлік.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-147.jpg",
+          "title": "Mesopeel - Glycolic Peel AG 35% / Гліколевий пілінг AG 35%",
+          "description": "Пілінг на основі гліколевої кислоти для омолодження шкіри.Гліколева кислота\tГлік.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-148.jpg",
+          "title": "Mesopeel - Glycolic Peel AG 50% / Гліколевий пілінг AG 50%",
+          "description": "Пілінг на основі гліколевої кислоти для омолодження шкіри.Гліколева кислота\tГлік.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-149.jpg",
+          "title": "Mesopeel - Glycolic Peel AG 70% / Гліколевий пілінг AG 70%",
+          "description": "Пілінг на основі гліколевої кислоти для омолодження шкіри.Гліколева кислота\tГлік.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-150.jpg",
+          "title": "Mesopeel - Jessner / Модифікований мезопілінг Джесснера",
+          "description": "Комбінований хімічний пілінг для шкіриМодифікований Mesopeel Jessner є хімічним пілінгом, в яком.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-151.jpg",
+          "title": "Mesopeel - Lactic Peel 50% / Молочний пілінг 50%",
+          "description": "Пілінг на основі молочної кислотиМолочна кислота\tМолочна кислота має потужні зволожуючі вл.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-152.jpg",
+          "title": "Mesopeel - Lactic Peel AL 30% / Молочний пілінг AL 30%",
+          "description": "Пілінг на основі молочної кислотиМолочна кислота\tМолочна кислота має потужні зволожуючі вл.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-153.jpg",
+          "title": "Mesopeel - Lactic Peel AL 40% / Молочний пілінг AL 40%",
+          "description": "Пілінг на основі молочної кислотиМолочна кислота\tМолочна кислота має потужні зволожуючі вл.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-154.jpg",
+          "title": "Mesopeel - Mandelic Peel AM 30% / Мигдальний пілінг AM 30%",
+          "description": "Пілінг на основі мигдальної кислоти для жирної та схильної до вугрової висипки шкіриМи.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-155.jpg",
+          "title": "Mesopeel - Mandelic Peel AM 40% / Мигдальний пілінг AM 40%",
+          "description": "Пілінг на основі мигдальної кислоти для жирної та схильної до вугрової висипки шкіриМи.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-156.jpg",
+          "title": "Mesopeel - Mandelic Peel AM 50% / Мигдальний пілінг AM 50%",
+          "description": "Пілінг на основі мигдальної кислоти для жирної та схильної до вугрової висипки шкіриМи.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-157.jpg",
+          "title": "Mesopeel - Periocular / Пілінг для періорбітальної зони",
+          "description": "mesopeel® periocular10% азелаїнова кислота + 7% саліцилова кислота + 7% молочна кислота + 5%.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-158.jpg",
+          "title": "Mesopeel - phenTCA / Мезопіл ТСА з фенолом",
+          "description": "Серединно-глибокий пілінг, який самонейтралізуєтьсяДо складу пілінгу входять:\tТСА 20% - ви.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-159.jpg",
+          "title": "Mesopeel - Salicylic Peel AS 10% / Саліциловий пілінг AS 10%",
+          "description": "Поверхневий саліциловий пілінг на гідрогліцериновій основі від MesoesteticІдеальний для боротьби.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-160.jpg",
+          "title": "Mesopeel - Salicylic Peel AS 20% / Саліциловий пілінг AS 20%",
+          "description": "Поверхневий саліциловий пілінг на гідрогліцериновій основі від MesoesteticІдеальний для боротьби.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-161.jpg",
+          "title": "Mesopeel - Salicylic Peel AS 30% / Саліциловий пілінг AS 30%",
+          "description": "Поверхневий саліциловий пілінг на гідрогліцериновій основі від MesoesteticІдеальний для боротьби.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-162.jpg",
+          "title": "Mesopeel - ТСА 15% Soft / Мезопіл ТСА 15%",
+          "description": "Хімічний пілінг на основі трихлороцтової кислотиMesopeel ТСА 15% - це розчин трихлороцтов.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-163.jpg",
+          "title": "Mesopeel - ТСА 35% / Мезопіл ТСА 35%",
+          "description": "Хімічний пілінг на основі трихлороцтової кислотиMesopeel ТСА 35% - це розчин трихлороцтової кисл.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-164.jpg",
+          "title": "Mesopeel Melanostop Tran3x Комбінований пілінг Меланостоп",
+          "description": "Унікальна формула пілінгу, що депігментує, прискорює процес оновлення шкіри, зменшуючи накопичений м.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-165.jpg",
+          "title": "Professional expertise - Pure Renewing Mask очищувальна маска для проблемної шкіри Mesoestetic",
+          "description": "Маска для щотижневого використання для догляду за себорейною та схильною до акне шкіри.Очищуваль.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-166.jpg",
+          "title": "Інтимна депігментуюча програма від mesoestetic dermamelan intimate",
+          "description": "Інтимна депігментуюча програма від mesoestetic dermamelan intimateЗаснований на двох діях: Корек.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-167.jpg",
+          "title": "Денний антивіковий крем з факторами росту та гіалуроновою кислотою age element® anti-wrinkle cream",
+          "description": "Денний антивіковий крем з факторами росту та гіалуроновою кислотою age element® anti-wrinkle cre.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-168.jpg",
+          "title": "Мesopeel - Melanoplus / Пілінг Меланоплюс",
+          "description": "Середній депігментуючий хімічний пілінгДо складу пілінгу входять:\tТСА 20% – викликає.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-169.jpg",
+          "title": "Мезопрепарат Mesoestetic c.prof 211 Photoaging Solution - Коктейль для лікування фотостаріння",
+          "description": "Мезотерапевтичний коктейль для лікування фотостаріння з ефектом сяйва:\tФотозахисна та антиокси.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-170.jpg",
+          "title": "Мезопрепарат Mesoestetic Mesohyal Artichoke / Ампули Артишок",
+          "description": "Препарат для біоревіталізації на основі гіалуронової кислоти з артишоком для лікування мякого ц.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-171.jpg",
+          "title": "Препарат для локального лікування акне Imperfection Control Acnelan від Mesoestetic",
+          "description": "Цей чудовий засіб стане справжньою знахідкою для власниць проблемної шкіри, адже він не тільки маску.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-172.jpg",
+          "title": "Філер для глибоких зморшок та ремоделювання обличчя Mesofiller Intense 25 мг",
+          "description": "Філер mesofiller intense для глибоких зморшок та ремоделювання обличчя. Дермальний наповнювач на осн.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/Dr. Kadir/Dr. Kadir-173.jpg",
+          "title": "Філердля корекції зони навколо очей та зморшок Mesofiller Periocular",
+          "description": "Філерmesofiller periocularдля корекції зони навколо очей та зморшок (периорбітальна зона.."
+        }
+      ]
+  },
+  {
+    "title": "Косметика від Caromed",
+    "logo": "../../../../assets/images/cosmetics/company-logo/Caromed-Logo.png",
+    "cosmetics": [
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/CAROMED/CAROMED-1.jpg",
+          "title": "Face3 One пілінг - біоревіталізант з пептидами від Caromed",
+          "description": "FACE ONEBIO-REVITALIZING PEELING 3Делікатний пілінг та потужна біоревіталізаціяFACE3 .."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/CAROMED/CAROMED-2.jpg",
+          "title": "Сироватка для стимуляції росту вій від Caromed Italia",
+          "description": "Сироватка для стимуляції росту вій від Caromed ItaliaСироватка зміцнює вії, запобігає пошкод.."
+        },
+        {
+          "image": "../../../../assets/images/cosmetics/cosmetics-image/CAROMED/CAROMED-3.jpg",
+          "title": "Сироватка-блиск для збільшення об‘єму губ від Caromed Italia",
+          "description": "Caromed You Want My Lips Enhancing Serum TransparentСироваткаблиск для збільшенн.."
+        }
+      ] 
+}
 ]
