@@ -2,7 +2,7 @@
    <div class="contact-form">
       <div class="back"></div>
       <h1 class="title">Контакти</h1>
-      <p>Розкрийте свою красу! Залиште свій номер для консультації!</p>
+      <p class="contact-us-form-description">Розкрийте свою красу! Залиште свій номер для консультації!</p>
       <contact-us-form></contact-us-form>
    </div>
     
@@ -13,27 +13,29 @@
                <p>Залишайтеся на зв’язку з нами в соціальних мережах, щоб дізнаватися про останні оновлення, новини тощо!</p>
                <social-media-icons></social-media-icons>
             </div>
-            <div class="information-card">
-               <div>
-                  <h2 class="title">Зателефонуйте нам</h2>
-                  <div class="phone-number-container">
-                     <a class="phoneNumber" href="{{sharedInforamtion.phoneNumberLink}}">{{sharedInforamtion.phoneNumber}}</a>
+            <div class="address-wrapper">
+               <div class="information-card">
+                  <div>
+                     <h2 class="title">Зателефонуйте нам</h2>
+                     <div class="phone-number-container">
+                        <a class="phoneNumber" href="{{sharedInforamtion.phoneNumberLink}}">{{sharedInforamtion.phoneNumber}}</a>
+                     </div>
+                  </div>
+                  <div>
+                     <h2 class="title">Адреса</h2>
+                     <div class="address-container">
+                        <a class="address" href="{{sharedInforamtion.addressLink}}" target="_blank">{{sharedInforamtion.address}}</a>
+                     </div>
+                  </div>
+                  <div>
+                     <h2 class="title">Години работи</h2>
+                     <p>Понеділок - П'ятниця</p>
+                     <p class="hours-work-time">{{sharedInforamtion.hoursWorkTime}}</p>
                   </div>
                </div>
-               <div>
-                  <h2 class="title">Адреса</h2>
-                  <div class="address-container">
-                     <a class="address" href="{{sharedInforamtion.addressLink}}" target="_blank">{{sharedInforamtion.address}}</a>
-                  </div>
+               <div class="map-wrapper">
+                  <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2573.3336202834857!2d24.0336911!3d49.8361886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473add6919148be5%3A0x7bcda23428036940!2sKniazia%20Romana%20St%2C%2011%2C%20L&#39;viv%2C%20L&#39;vivs&#39;ka%20oblast%2C%2079000!5e0!3m2!1sen!2sua!4v1691932445438!5m2!1sen!2sua" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
                </div>
-               <div>
-                  <h2 class="title">Години работи</h2>
-                  <p>Понеділок - П'ятниця</p>
-                  <p class="hours-work-time">{{sharedInforamtion.hoursWorkTime}}</p>
-               </div>
-            </div>
-            <div class="map-wrapper">
-               <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2573.3336202834857!2d24.0336911!3d49.8361886!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473add6919148be5%3A0x7bcda23428036940!2sKniazia%20Romana%20St%2C%2011%2C%20L&#39;viv%2C%20L&#39;vivs&#39;ka%20oblast%2C%2079000!5e0!3m2!1sen!2sua!4v1691932445438!5m2!1sen!2sua" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
             </div>
          </div>
    </div>

@@ -4,7 +4,9 @@
     </div>
     <div class="panel-container" *ngFor="let brand of cosmeticsList.default">
         <div class="panel-header" #header (click)="expandCosmetics(panel, header, border)">
-            <img class="brand-logo" src="{{brand.logo}}" alt="">
+            <div class="image-wrapper">
+                <img class="brand-logo" src="{{brand.logo}}" alt="Картинка з косметикою" loading="auto">
+            </div>
             <h1 class="header-title">{{brand.title}}</h1>
         </div>
         <div class="panel">
