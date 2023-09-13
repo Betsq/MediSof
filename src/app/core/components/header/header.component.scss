@@ -27,7 +27,7 @@
     display: flex;
 
     li {
-      margin: 0 20px 0 20px;
+      margin: 0 20px;
 
       a {
         color: black;
@@ -75,37 +75,6 @@
   }
 }
 
-.facebook {
-  background-image: url("../../../../assets/images/facebook-50.png");
-
-  &:hover{
-    background-image: url("../../../../assets/images/facebook-50-white.png");
-  }
-}
-
-.inst {
-  background-image: url("../../../../assets/images/instagram-50.png");
-
-  &:hover{
-    background-image: url("../../../../assets/images/instagram-50-white.png");
-  }
-}
-
-.viber {
-  background-image: url("../../../../assets/images/viber-50.png");
-
-  &:hover{
-    background-image: url("../../../../assets/images/viber-50-white.png");
-  }
-}
-
-.telegram {
-  background-image: url("../../../../assets/images/telegram-50.png");
-
-  &:hover{
-    background-image: url("../../../../assets/images/telegram-50-white.png");
-  }
-}
 
 .social-media-nav {
   border-left: $border-color 1px solid;
@@ -124,5 +93,88 @@
     border-radius: 50%;
     top: 0;
     right: -4px;
+  }
+}
+
+.side-menu-button{
+  display: none;
+  width: 90px;
+  height: 90px;
+  justify-content: center;
+  align-items: center;
+}
+
+.side-menu-icon{
+  width: 45px;
+  height: 45px;
+  font-size: 45px;
+}
+
+
+@media (max-width: 1320px){
+  .header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0;
+  }
+
+  .container{
+    margin: 0;
+  }
+}
+
+@media (max-width: 1050px){
+  .social-media-nav{
+    display: block;
+  }
+
+  .phone-number{
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+}
+
+
+@media (max-width: 850px){
+  .navigation-container {
+    ul {  
+      padding-left: 10px;
+      li {
+        margin: 0 7px;
+      }
+    }
+  }
+}
+
+@media (max-width: 710px){
+  .navigation-container, .social-media-nav{
+    display: none;
+  }
+  
+  .header{
+    justify-content: space-between;
+  }
+
+  .logo-wrapper{
+    margin-left: 40px;
+  }
+
+  .side-menu-button{
+    display: flex;
+    margin-right: 20px;
+  }
+}
+
+@media (max-width: 500px){
+  .side-menu-button{
+    width: 70px;
+    height: 70px;
+  }
+  
+  .side-menu-icon{
+    width: 35px;
+    height: 35px;
+    font-size: 35px;
   }
 }

@@ -1,4 +1,4 @@
-import { Component } from "@angular/core";
+import { Component, Input } from "@angular/core";
 import * as SharedInformation from "../../../shared/shared-information.json";
 
 @Component({
@@ -8,5 +8,7 @@ import * as SharedInformation from "../../../shared/shared-information.json";
 })
 
 export class HeaderComponent {
+    @Input() sideMenu: any;
+
     sharedInformation: any = SharedInformation;
 }

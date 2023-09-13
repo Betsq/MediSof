@@ -21,6 +21,8 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatButtonModule } from '@angular/material/button';
 import { MatDialogModule } from '@angular/material/dialog';
+import {MatSidenavModule} from '@angular/material/sidenav';
+
 import { ContactUsPopUpComponent } from './core/components/contact-us-pop-up/contact-us-pop-up.component';
 
 import { DirectivesModule } from './directives/swiper.module';
@@ -29,6 +31,7 @@ import { FooterComponent } from './core/components/footer/footer.component';
 import { CosmeticsComponent } from './core/components/cosmetics/cosmetics.component';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { SocialMediaIconsComponent } from './shared/components/social-media-icons/social-media-icons.component';
+import { SidebarMenuComponent } from './core/components/sidebar-menu/sidebar-menu.component';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
@@ -51,7 +54,8 @@ const appRoutes: Routes = [
     InformationUsSectionComponent,
     FooterComponent,
     CosmeticsComponent,
-    SocialMediaIconsComponent
+    SocialMediaIconsComponent,
+    SidebarMenuComponent
   ],
   imports: [
     BrowserModule,
@@ -67,7 +71,8 @@ const appRoutes: Routes = [
     MatButtonModule,
     MatDialogModule,
     DirectivesModule,
-    MatExpansionModule
+    MatExpansionModule,
+    MatSidenavModule
   ],
   providers: [],
   bootstrap: [AppComponent],

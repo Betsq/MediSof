@@ -1,5 +1,5 @@
 <header class="header">
-    <a routerLink=""> <img class="logo" src="../../../../assets/icons/2.png" alt="Medi Sof Clinic"></a>
+    <a routerLink="" class="logo-wrapper"> <img class="logo" src="../../../../assets/icons/2.png" alt="Medi Sof Clinic"></a>
      <div class="container">
          <nav class="navigation-container">
              <ul>
@@ -22,5 +22,9 @@
              <p class="phone-number"><a href="{{sharedInformation.phoneNumberLink}}">{{sharedInformation.phoneNumber}}</a></p>
              <social-media-icons></social-media-icons>
          </div>
+
+         <button class="side-menu-button" mat-icon-button (click)="sideMenu.toggle()">
+            <mat-icon class="side-menu-icon">menu</mat-icon>
+          </button>
      </div>
  </header>

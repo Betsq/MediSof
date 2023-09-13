@@ -1,12 +1,17 @@
-<header-component></header-component>
-<div class="container">
-    <router-outlet></router-outlet>
+<mat-drawer-container>
+    <mat-drawer class="sidebar-container" #drawer mode="over" >
+        <sidebar-menu></sidebar-menu>
+    </mat-drawer>
 
-    <button mat-raised-button class="button-open-pop-up" (click)="openPopUp()">
-        <div class="button-open-pop-up-title">Консультація</div>
-    </button>
-</div>
-<footer-section></footer-section>
+    <mat-drawer-content>
+        <header-component [sideMenu]="drawer"></header-component>
+        <div class="container">
+            <router-outlet></router-outlet>
 
-
-
+            <button mat-raised-button class="button-open-pop-up" (click)="openPopUp()">
+                <div class="button-open-pop-up-title">Консультація</div>
+            </button>
+        </div>
+        <footer-section></footer-section>
+    </mat-drawer-content>
+</mat-drawer-container>
