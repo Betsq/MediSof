@@ -32,6 +32,7 @@ import { CosmeticsComponent } from './core/components/cosmetics/cosmetics.compon
 import { MatExpansionModule } from '@angular/material/expansion';
 import { SocialMediaIconsComponent } from './shared/components/social-media-icons/social-media-icons.component';
 import { SidebarMenuComponent } from './core/components/sidebar-menu/sidebar-menu.component';
+import {MatSnackBarModule} from '@angular/material/snack-bar';
 
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
@@ -72,7 +73,9 @@ const appRoutes: Routes = [
     MatDialogModule,
     DirectivesModule,
     MatExpansionModule,
-    MatSidenavModule
+    MatSidenavModule,
+    HttpClientModule,
+    MatSnackBarModule
   ],
   providers: [],
   bootstrap: [AppComponent],
