@@ -10,6 +10,7 @@ contact-us-form{
     padding: 50px 0 0 0;
     width: 100%;
     margin-bottom: 30px;
+    flex-wrap: wrap;
 }   
 
 .information-about-location{
@@ -19,6 +20,7 @@ contact-us-form{
     max-width: 250px;
     max-height: 296px;
     border-radius: $border-radius;
+    min-width: 250px;
 }
 
 .information-about-location-title{
@@ -86,6 +88,9 @@ contact-us-form{
     border-radius: $border-radius;
 }
 
+.swiper, .map-wrapper, .information-about-location{
+    margin-bottom: 20px;
+}
 
 
 .swiper-slide{
@@ -103,3 +108,21 @@ contact-us-form{
 }
 
 
+
+@media (max-width: 1250px) {
+    .google-map{
+        width: 500px
+    }
+}
+
+@media (max-width: 1170px) {
+    .google-map{
+        width: 300px;
+    }
+}
+
+@media (max-width: 700px) {
+    .swiper{
+        margin-left: 0;
+    }
+}

@@ -66,3 +66,14 @@
     padding: 15px;
     background-color: $C800;
 }
+
+@media (max-width: 450px){
+  .navigation-container{
+    ul{
+      flex-direction: column;
+      li{
+        margin: 7px 20px;
+      }
+    }
+  }
+}
