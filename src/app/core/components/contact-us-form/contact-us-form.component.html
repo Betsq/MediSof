@@ -4,15 +4,15 @@
         <span class="mat-prefix-phone-number" matPrefix>+380 &nbsp;</span>
         <input [(ngModel)]="phoneNumber" type="tel" matInput placeholder="67-911-22-33">
         <mat-icon matSuffix>phone</mat-icon>
-        </mat-form-field>
-    
-        
-        <button mat-raised-button class="button-send" (click)="sendEmail()" >
-            <mat-icon *ngIf="sendingRequest">
-               <div class="spinner">
-                    <mat-spinner diameter="18"></mat-spinner>
-               </div>
-            </mat-icon>
-            <div class="button-send-title" *ngIf="!sendingRequest">Відправити</div>
-        </button>
+    </mat-form-field>
+
+
+    <button mat-raised-button class="button-send" (click)="sendEmail()">
+        <mat-icon *ngIf="sendingRequest">
+            <div class="spinner">
+                <mat-spinner diameter="18"></mat-spinner>
+            </div>
+        </mat-icon>
+        <div class="button-send-title" *ngIf="!sendingRequest">Відправити</div>
+    </button>
 </div>

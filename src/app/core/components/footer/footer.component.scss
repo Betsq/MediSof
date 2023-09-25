@@ -31,7 +31,7 @@
 }
 
 .header, .main{
-    background-color: $C800;
+  background-color: $second-color;
 }
 
 .navigation-container {
@@ -64,7 +64,7 @@
 .rights-reserved{
     text-align: center;
     padding: 15px;
-    background-color: $C800;
+    background-color: $second-color;
 }
 
 @media (max-width: 450px){
