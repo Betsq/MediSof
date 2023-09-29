@@ -106,9 +106,10 @@
 }
 
 .service-name{
-    margin: 0 auto 0 0;
+    margin-right: 10px;
     color: #2c2c2c;
     font-size: 16px;
+    
 }
 
 ul li::marker {
@@ -125,6 +126,18 @@ ul li::marker {
     
   }
 
+.service-list{
+    li:nth-child(even){
+        background: $C100;
+    }
+
+        
+}
+
+.price {
+    margin: 0 20px 0 auto;
+    white-space: nowrap;
+}
 
 @media (max-width: 1220px){
     .service-container{
@@ -135,6 +148,10 @@ ul li::marker {
 @media (max-width: 1000px){
     .service-container{
         width: 80%;
+    }
+
+    .service-name, .price {
+        font-size: 14px;
     }
   }
 

@@ -30,7 +30,7 @@ export class ServicesComponent{
         else{
             serviceList.classList.add("active");
             serviceCard.classList.add("expanded");
-            serviceList.style.maxHeight = serviceList.scrollHeight + "px";
+            serviceList.style.maxHeight = (serviceList.scrollHeight + 100) + "px";
         }
     }
 }
