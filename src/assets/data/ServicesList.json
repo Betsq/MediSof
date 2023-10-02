@@ -1,7 +1,7 @@
 [
     {
         "title": "КОНТУРНА ПЛАСТИКА ГУБ",
-        "imgPath": "../../../../assets/images/services/hijaluron-small.jpg",
+        "imgPath": "../../../../assets/images/services/CONTOUR-PLASTIC-LIPS.jpg",
         "services": [
             {
                 "Name": "NEURAMIS LIGHT IML",
@@ -43,7 +43,7 @@
     },
     {
         "title": "КОНТУРНА ПЛАСТИКА: ВИЛИЦІ, КУТИ НИЖНЬОЇ ЩЕЛЕПИ, ПІДБОРІДДЯ",
-        "imgPath": "../../../../assets/images/services/Untitled(1).jpg",
+        "imgPath": "../../../../assets/images/services/CONTOUR-PLASTIC-CHEEKS-CORNERS-OF-THE-LOWER-JAW-CHIN.jpg",
         "services": [
             {
                 "Name": "NEURAMIS DEEP 1ML",
@@ -73,7 +73,7 @@
     },
     {
         "title": "ЛАЗЕРНЕ ВИДАЛЕННЯ СУДИН",
-        "imgPath": "../../../../assets/images/services/Untitled(2).jpg",
+        "imgPath": "../../../../assets/images/services/LASER-REMOVAL-OF-VESSELS.jpg",
         "services": [
             {
                 "Name": "ОБЛИЧЧЯ",
@@ -107,7 +107,7 @@
     },
     {
         "title": "ФОТОТЕРАПІЯ АКНЕ",
-        "imgPath": "../../../../assets/images/services/Untitled(3).jpg",
+        "imgPath": "../../../../assets/images/services/ACNE-PHOTOTHERAPY.jpg",
         "services": [
             {
                 "Name": "ФОТОТЕРАПІЯ АКНЕ (ЛІКУВАННЯ ОБЛИЧЧЯ)",
@@ -129,7 +129,7 @@
     },
     {
         "title": "ЛАЗЕРНА ЕПІЛЯЦІЯ ОБЛИЧЧЯ",
-        "imgPath": "../../../../assets/images/services/Untitled(4).jpg",
+        "imgPath": "../../../../assets/images/services/LASER-EPILATION-OF-THE-FACE.jpg",
         "services": [
             {
                 "Name": "ВЕРХНЯ ГУБА",
@@ -167,7 +167,7 @@
     },
     {
         "title": "ЛАЗЕРНА ЕПІЛЯЦІЯ ГРУДЕЙ ТА СПИНИ",
-        "imgPath": "../../../../assets/images/services/Untitled(5).jpg",
+        "imgPath": "../../../../assets/images/services/LASER-EPILATION-OF-BREAST-AND-BACK.jpg",
         "services": [
             {
                 "Name": "ОРЕОЛИ МОЛОЧНИХ ЗАЛОЗ",
@@ -201,7 +201,7 @@
     },
     {
         "title": "ЛАЗЕРНА ЕПІЛЯЦІЯ РУК",
-        "imgPath": "../../../../assets/images/services/Untitled(6).jpg",
+        "imgPath": "../../../../assets/images/services/LASER-EPILATION-OF-THE-HANDS.jpg",
         "services": [
             {
                 "Name": "ПАХВИ",
@@ -227,7 +227,7 @@
     },
     {
         "title": "ЛАЗЕРНА ЕПІЛЯЦІЯ НІГ",
-        "imgPath": "../../../../assets/images/services/Untitled(7).jpg",
+        "imgPath": "../../../../assets/images/services/LASER-EPILATION-OF-THE-LEGS.jpg",
         "services": [
             {
                 "Name": "ПАЛЬЦІ НІГ (2 ВЕЛИКИХ)",
@@ -269,7 +269,7 @@
     },
     {
         "title": "ЛАЗЕРНА ЕПІЛЯЦІЯ ІНТИМНИХ ЗОН",
-        "imgPath": "../../../../assets/images/services/Untitled(8).jpg",
+        "imgPath": "../../../../assets/images/services/LASER-EPILATION-OF-INTIMATE-ZONES.jpg",
         "services": [
             {
                 "Name": "БІКІНІ ГЛИБОКЕ",
@@ -303,7 +303,7 @@
     },
     {
         "title": "ФОТОВИДАЛЕННЯ ПІГМЕНТНИХ ПЛЯМ",
-        "imgPath": "../../../../assets/images/services/Untitled(9).jpg",
+        "imgPath": "../../../../assets/images/services/PHOTO-REMOVAL-OF-PIGMENT-SPOTS.jpg",
         "services": [
             {
                 "Name": "ФОТОВИДАЛЕННЯ ПІГМЕНТАЦІЇ ( ДО 30 СПАЛАХІВ ЗА 1 СПАЛАХ)",
@@ -321,7 +321,7 @@
     },
     {
         "title": "БОТУЛІНОТЕРАПІЯ REFINEX",
-        "imgPath": "../../../../assets/images/services/Untitled(10).jpg",
+        "imgPath": "../../../../assets/images/services/REFINEX-BOTULINOTHERAPY.jpg",
         "services": [
             {
                 "Name": "ВЕРХНЯ ТРЕТИНА (ОЧІ + ЛОБ + МІЖБРІВʼЯ + ПЕРЕНІССЯ)",
@@ -343,7 +343,7 @@
     },
     {
         "title": "ДИСПОРТ",
-        "imgPath": "../../../../assets/images/services/Untitled(11).jpg",
+        "imgPath": "../../../../assets/images/services/DISPORT.jpg",
         "services": [
             {
                 "Name": "ВЕРХНЯ ТРЕТИНА (ОЧІ + ЛОБ + МІЖБРІВʼЯ + ПЕРЕНІССЯ)",
@@ -369,7 +369,7 @@
     },
     {
         "title": "ЗАПОВНЕННЯ НОСОСЛІЗНОЇ БОРОЗНИ",
-        "imgPath": "../../../../assets/images/services/Untitled(12).jpg",
+        "imgPath": "../../../../assets/images/services/FILLING-OF-THE-LACRIMAL-FURL.jpg",
         "services": [
             {
                 "Name": "NEURAMIS LIGHT 1ML",
@@ -383,7 +383,7 @@
     },
     {
         "title": "RF-ліфтинг",
-        "imgPath": "../../../../assets/images/services/Untitled(14).jpg",
+        "imgPath": "../../../../assets/images/services/RF-lifting.jpg",
         "services": [
             {
                 "Name": "Декольте",
