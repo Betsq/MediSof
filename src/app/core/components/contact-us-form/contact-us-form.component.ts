@@ -25,7 +25,7 @@ export class ContactUsFormComponent{
 
         this.sendingRequest = true;
 
-        this._httpClient.post<HttpResponse<any>>(`https://localhost:44363/Email/send/contact-us/${this.phoneNumber}`, "")
+        this._httpClient.post<HttpResponse<any>>(`https://medi-sof-be-0da09cf2a71b.herokuapp.com/Email/send/contact-us/${this.phoneNumber}`, "")
             .pipe(map((data:any) => {
                 this.sendingRequest = false;
             }),

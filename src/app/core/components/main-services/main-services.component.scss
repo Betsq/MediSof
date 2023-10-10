@@ -14,8 +14,14 @@
     padding: 50px 0 50px 0;
 }
 
+.title-img{
+    height: 80px;
+    width: 80px;
+}
+
 .title-block{
     @include center-all;
+    margin-bottom: 20px;
 }
 
 .card-container{
@@ -56,6 +62,10 @@
     width: 48%;
     margin-right: auto;
     padding: 0 10px;
+
+    p{
+        font-size: 14px;
+    }
 }
 
 .image-block{
