@@ -2,10 +2,8 @@
     <h1 class="promotion-title">Акційні послуги</h1>
     <div class="service-container">
         <div class="service-card" #promotioHeader (click)="expandListService(promotionList, promotioHeader)">
-            <h2 class="service-card-title">Акційні послуги</h2>
-            <p>
-                <img class="serivce-image" src="../../../../assets/images/services/Promotional-services.jpg" alt="Акційні послуги" />
-            </p>
+            <h2 class="service-card-title">Акційні послуги</h2> 
+            <img class="serivce-image" src="../../../../assets/images/services/Promotional-services.jpg" alt="Акційні послуги" />
         </div>
         <ul #promotionList class="service-list service-list-promotion">
             <li *ngFor="let promotionServices of listPromotionServicesData.default">
@@ -22,9 +20,7 @@
     <div *ngFor="let ser of listServiceData.default" class="service-container">
         <div class="service-card" #servicecard (click)="expandListService(servicelist, servicecard)">
             <h2 class="service-card-title">{{ ser.title }}</h2>
-            <p>
-                <img class="serivce-image" src="{{ ser.imgPath }}" alt="{{ser.title}}" />
-            </p>
+            <img class="serivce-image" src="{{ ser.imgPath }}" alt="{{ser.title}}" />
         </div>
         <ul #servicelist class="service-list">
             <li *ngFor="let serviceOption of ser.services">

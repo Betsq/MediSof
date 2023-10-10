@@ -13,6 +13,9 @@
                 <mat-spinner diameter="18"></mat-spinner>
             </div>
         </mat-icon>
-        <div class="button-send-title" *ngIf="!sendingRequest">Відправити</div>
+        
+        <mat-icon class="done" *ngIf="isRequestOk" fontIcon="done"></mat-icon>
+        
+        <div class="button-send-title" *ngIf="(!sendingRequest) && (!isRequestOk)">Відправити</div>
     </button>
 </div>

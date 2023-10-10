@@ -17,6 +17,8 @@ export class ContactUsFormComponent{
     
     phoneNumber: any;
     sendingRequest: boolean = false;
+    isRequestOk: boolean = false;
+
     messageError: string = "Нажаль сталась помилка, зателефонуйте нам або спробуйте пізніше! Дякуємо за розуміння"
 
     sendEmail(){
@@ -28,6 +30,7 @@ export class ContactUsFormComponent{
         this._httpClient.post<HttpResponse<any>>(`https://medi-sof-be-0da09cf2a71b.herokuapp.com/Email/send/contact-us/${this.phoneNumber}`, "")
             .pipe(map((data:any) => {
                 this.sendingRequest = false;
+                this.isRequestOk = true;
             }),
             catchError((error: any) => {
                 this._snackBar.open(this.messageError, "Закрити", {
