@@ -76,4 +76,12 @@
       }
     }
   }
+
+  .header{
+    flex-direction: column;
+  }
+
+  .header-title {
+    margin-bottom: 10px;
+  }
 }

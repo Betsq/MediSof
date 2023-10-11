@@ -138,13 +138,28 @@ ul li::marker {
 
     li{
         margin-right: 20px;
+        border-radius: 5px;
+        padding: 0 5px;
     }
         
 }
 
+
+
 .price {
     margin-left: auto;
     white-space: nowrap;
+}
+
+.old-price{
+    margin-left: none!important;
+    font-size: 14px;
+    margin-left: 5px;
+    text-decoration: line-through;
+}
+
+.new-price{
+    color: $tomato-color!important;
 }
 
 @media (max-width: 1220px){

@@ -1,12 +1,7 @@
 [
     {
-        "title": "Нова послуга",
-        "oldPrice": 40,
-        "newPrice": 32
-    },
-    {
-        "title": "Друга нова послуга",
-        "oldPrice": 40,
-        "newPrice": 32
+        "title": "RF - ліфтинг",
+        "oldPrice": 1200,
+        "newPrice": 800
     }
 ]
