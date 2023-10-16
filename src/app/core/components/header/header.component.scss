@@ -15,7 +15,7 @@
 }
 
 .logo {
-  max-width: 80px;
+  max-width: 154px;
   max-height: 80px;
 }
 
@@ -32,13 +32,13 @@
       a {
         color: black;
         font-family: "RobotoMedium";
-        background: linear-gradient($main-color 0 0) var(--p, 0) / var(--p, 0)
-          no-repeat;
+        background: linear-gradient($main-color 0 0) var(--p, 0) / var(--p, 0) no-repeat;
         transition: 0.4s, background-position 0s;
         padding: 5px;
         border-radius: 5px;
         @include center-all;
         position: relative;
+
         &:hover {
           --p: 100%;
           color: $white;
@@ -96,7 +96,7 @@
   }
 }
 
-.side-menu-button{
+.side-menu-button {
   display: none;
   width: 90px;
   height: 90px;
@@ -104,42 +104,43 @@
   align-items: center;
 }
 
-.side-menu-icon{
+.side-menu-icon {
   width: 45px;
   height: 45px;
   font-size: 45px;
 }
 
 
-@media (max-width: 1320px){
-  .header{
+@media (max-width: 1320px) {
+  .header {
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 20px 0;
   }
 
-  .container{
+  .container {
     margin: 0;
   }
 }
 
-@media (max-width: 1050px){
-  .social-media-nav{
+@media (max-width: 1050px) {
+  .social-media-nav {
     display: block;
   }
 
-  .phone-number{
+  .phone-number {
     margin-right: 0;
     margin-bottom: 15px;
   }
 }
 
 
-@media (max-width: 850px){
+@media (max-width: 850px) {
   .navigation-container {
-    ul {  
+    ul {
       padding-left: 10px;
+
       li {
         margin: 0 7px;
       }
@@ -147,40 +148,42 @@
   }
 }
 
-@media (max-width: 710px){
-  .navigation-container, .social-media-nav{
+@media (max-width: 710px) {
+
+  .navigation-container,
+  .social-media-nav {
     display: none;
   }
-  
-  .header{
+
+  .header {
     justify-content: space-between;
     padding: 5px 0;
   }
 
-  .logo-wrapper{
+  .logo-wrapper {
     margin-left: 40px;
   }
 
-  .side-menu-button{
+  .side-menu-button {
     display: flex;
     margin-right: 20px;
   }
 
-  .logo{
-    max-width: 65px;
+  .logo {
+    max-width: 125px;
     max-height: 65px;
   }
 
 
 }
 
-@media (max-width: 500px){
-  .side-menu-button{
+@media (max-width: 500px) {
+  .side-menu-button {
     width: 70px;
     height: 70px;
   }
-  
-  .side-menu-icon{
+
+  .side-menu-icon {
     width: 35px;
     height: 35px;
     font-size: 35px;
