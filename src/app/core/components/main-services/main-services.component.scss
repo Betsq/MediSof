@@ -55,7 +55,8 @@
 }
 
 .card-title{
-    margin: auto;
+    margin: 0;
+    margin-bottom: 10px;
 }
 
 .card-information-block{
@@ -107,10 +108,6 @@
 
     .image-block{
         @include image-size;
-    }
-
-    .card-title{
-        margin: 0;
     }
     
     .card-information-block{
