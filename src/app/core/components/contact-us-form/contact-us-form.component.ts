@@ -20,10 +20,29 @@ export class ContactUsFormComponent{
     isRequestOk: boolean = false;
 
     messageError: string = "Нажаль сталась помилка, зателефонуйте нам або спробуйте пізніше! Дякуємо за розуміння"
+    messageEmptyPhone: string = "Ви не заповнили свій номер телефону";
+    messageAlreadySent: string = "Ви вже відправили свій номер телефону"
 
     sendEmail(){
         if(this.sendingRequest == true)
             return;
+
+        if(this.isRequestOk == true){
+            this._snackBar.open(this.messageAlreadySent, "Закрити", {
+                panelClass: ['mat-toolbar', 'mat-primary']
+            });
+
+            return;
+        }
+
+        if(this.phoneNumber == null || this.phoneNumber.length === 0){
+            this._snackBar.open(this.messageEmptyPhone, "Закрити", {
+                panelClass: ['mat-toolbar', 'mat-primary']
+            });
+
+            return;
+        }
+            
 
         this.sendingRequest = true;
 
